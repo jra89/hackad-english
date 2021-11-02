@@ -29,7 +29,7 @@ Enjoy!
 
 ## Other
 
-* Done with all episodes? Might as well remove the plugin -> [chrome://extensions/]
+* Done with all episodes? Might as well remove the plugin -> <chrome://extensions/>
 
 * Having a weird problem where the Swedish text sometimes appears instead of the English ones? Check so that the original Swedish subtitles are not enabled in the SVT Play video player (controls down to the right).
 
