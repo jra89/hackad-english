@@ -5,21 +5,35 @@ English subtitles for the TV series "Hackad"
 
 ## 1: Install this plugin
 
-Chrome: https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg?hl=en
+### Chrome
+https://chrome.google.com/webstore/detail/substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg?hl=en
 
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/substital/
+### Firefox
+https://addons.mozilla.org/en-US/firefox/addon/substital/
 
 ## 2: Open the episode you want 
 
-* https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-dolja?info=visa
+### Episode 1
+https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-dolja?info=visa
+
+### Episode 2
+
+### Episode 3
+
+### Episode 4
+
+### Episode 5
+
+### Episode 6
+
 
 ## 3: Press the plugin icon and select "SVT Play".
 
-[Substital](plugin.png)
+![Substital](plugin.png)
 
 ## 4: Search for "Hackad" and select the episode subtitles.
 
-[Substital](search.png)
+![Substital](search.png)
 
 Enjoy!
 
