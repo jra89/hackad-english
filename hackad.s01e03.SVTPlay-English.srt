@@ -1,0 +1,1208 @@
+1
+00:00:03,920 --> 00:00:06,720
+"Let's do this."
+
+2
+00:00:06,880 --> 00:00:12,560
+-Should this be on? Yeah, think so?
+
+3
+00:00:12,720 --> 00:00:20,080
+I record all calls, so we have extra backup if this gives up.
+
+4
+00:00:20,240 --> 00:00:23,440
+A large part of crime has moved online:
+
+5
+00:00:23,600 --> 00:00:29,680
+Everything from simple, small scams to serious organized crime.
+
+6
+00:00:29,840 --> 00:00:35,960
+Oh yeah. These are the awesome. They look good. These are our cameras.
+
+7
+00:00:38,320 --> 00:00:44,760
+It's no longer teenagers who do things just because you can–
+
+8
+00:00:44,920 --> 00:00:47,200
+- but criminal elements.
+
+9
+00:00:47,360 --> 00:00:52,640
+This is also a camera. I'm so equipped now.
+
+10
+00:00:52,800 --> 00:00:56,920
+The security company Gunnebo has been attacked.
+
+11
+00:00:57,080 --> 00:00:59,560
+Is the camera running?
+
+12
+00:00:59,720 --> 00:01:03,960
+So I don't go in, and then just ... panic.
+
+13
+00:01:06,280 --> 00:01:12,200
+SVT has let four professional hackers attack individuals–
+
+14
+00:01:12,360 --> 00:01:18,320
+and companies, to show how vulnerable we are in our connected society.
+
+15
+00:01:20,120 --> 00:01:23,480
+Organized crime has moved online.
+
+16
+00:01:23,640 --> 00:01:27,800
+Coop had to close almost all of its 800 stores.
+
+17
+00:01:27,960 --> 00:01:31,400
+Serious cyberattacks increases every year–
+
+18
+00:01:31,560 --> 00:01:38,280
+And huge ransoms are paid to save companies from ruin.
+
+19
+00:01:38,440 --> 00:01:44,200
+Can our hackers access big business via a secret shortcut?
+
+20
+00:01:54,680 --> 00:01:57,480
+/ CALL SIGNAL /
+
+21
+00:02:08,560 --> 00:02:14,320
+I'm terrified they'll be suspicious and call the police.
+
+22
+00:02:14,480 --> 00:02:17,760
+are you nervous, Jinny?
+
+23
+00:02:20,240 --> 00:02:22,720
+Our hackers are playing criminals.
+
+24
+00:02:22,880 --> 00:02:27,640
+In two days they have to infiltrate the IT company Langate.
+
+25
+00:02:27,800 --> 00:02:32,960
+Jesper and Jinny are using Social manipulation,
+
+26
+00:02:33,120 --> 00:02:39,240
+- to be let in to the company to gain a foothold.
+
+27
+00:02:39,400 --> 00:02:45,000
+No one there, except the CEO, knows about the hack.
+
+28
+00:02:45,160 --> 00:02:51,880
+Jinny is dressed as a worker and will say she has to check humidity.
+
+29
+00:02:52,040 --> 00:02:55,720
+They have made a "cover story" where her name is Frida.
+
+30
+00:02:55,880 --> 00:03:02,040
+They have a website for Flexvatten, the company she's from.
+
+31
+00:03:02,200 --> 00:03:07,800
+I'll park here. It's good if we're not seen.
+
+32
+00:03:09,200 --> 00:03:14,040
+- We can stop here. -Yeah, thinking about that too.
+
+33
+00:03:15,040 --> 00:03:18,080
+The risk is they'll call the police.
+
+34
+00:03:18,240 --> 00:03:22,920
+That they catch you, become suspicious and keep you there.
+
+35
+00:03:23,080 --> 00:03:28,320
+In reality, this had been a fairly serious crime.
+
+36
+00:03:32,040 --> 00:03:36,680
+Anyone who wants to attack several companies can target a supplier -
+
+37
+00:03:36,840 --> 00:03:40,480
+- a so-called supply chain attack.
+
+38
+00:03:40,640 --> 00:03:46,080
+Langate is small with many customers. If the hackers manage to infiltrate them–
+
+39
+00:03:46,240 --> 00:03:51,080
+- then the opportunity to access a large number of companies is opened.
+
+40
+00:03:56,040 --> 00:04:02,640
+The last few meters ... I didn't check the heart monitor, but it was probably high.
+
+41
+00:04:02,800 --> 00:04:05,720
+I got really nervous.
+
+42
+00:04:07,200 --> 00:04:12,400
+Hey! I'm here to measure some moisture in your walls.
+
+43
+00:04:12,560 --> 00:04:18,400
+- From Sölvesborgs Construction, or? -Yes. Or from Sölvesborg municipality.
+
+44
+00:04:18,560 --> 00:04:21,080
+Is it okay?
+
+45
+00:04:23,560 --> 00:04:27,360
+We humans have a tendency to fill in the blanks -
+
+46
+00:04:27,520 --> 00:04:30,960
+-If someone seems to fit in a role.
+
+47
+00:04:31,120 --> 00:04:34,280
+If you look like an IT technician, then you probably are.
+
+48
+00:04:34,440 --> 00:04:38,400
+-Where do you the kitchen and ...? - The kitchen is in there.
+
+49
+00:04:38,560 --> 00:04:41,800
+-Bathroom? -There.
+
+50
+00:04:41,960 --> 00:04:46,160
+If you look like you belong in an environment, we assume you do.
+
+51
+00:04:46,320 --> 00:04:51,360
+We may not stop a person and ask to see the ID -
+
+52
+00:04:51,520 --> 00:04:57,200
+-Or look closely and realize that the ID is fake.
+
+53
+00:04:57,360 --> 00:05:04,000
+The world's thickest wall is useless if someone opens a door in it.
+
+54
+00:05:31,000 --> 00:05:37,840
+I looked for cables in the ceiling and for a cable to a TV
+
+55
+00:05:38,000 --> 00:05:42,560
+-But there was nothing, so we concluded that they ran everything on wifi.
+
+56
+00:05:42,720 --> 00:05:45,440
+And we had not prepped for that.
+
+57
+00:05:45,600 --> 00:05:49,600
+She's been inside for 15 minutes so far.
+
+58
+00:05:49,760 --> 00:05:54,320
+I felt that I had to go one more round.
+
+59
+00:05:54,480 --> 00:06:01,280
+Then I saw a door. I went straight in as if I knew what was there.
+
+60
+00:06:01,440 --> 00:06:08,520
+There was a switch - network equipment - and some type of server
+
+61
+00:06:08,680 --> 00:06:12,120
+-With lights flashing.
+
+62
+00:06:12,280 --> 00:06:17,080
+So it was a gold mine, just what I were looking for.
+
+63
+00:06:17,240 --> 00:06:22,280
+Fast as hell, take up everything, plug in, plug in power ...
+
+64
+00:06:23,960 --> 00:06:26,480
+Jinny?
+
+65
+00:06:33,640 --> 00:06:36,160
+Something is happening.
+
+66
+00:06:42,200 --> 00:06:49,200
+Out through door and pretend to write. I wrote on the paper all the way out.
+
+67
+00:06:57,040 --> 00:07:00,080
+- Did you go out, Jinny? -Yes.
+
+68
+00:07:00,240 --> 00:07:04,760
+Did you plug it in? Do you know that you got a link?
+
+69
+00:07:04,920 --> 00:07:09,600
+- It flashed. - It hasn't come up yet.
+
+70
+00:07:09,760 --> 00:07:15,560
+Forget it. It came up! It's up. Yes, we have contact!
+
+71
+00:07:18,200 --> 00:07:20,360
+Holy shit!
+
+72
+00:07:20,520 --> 00:07:24,960
+Oh! How fucking nervous I was.
+
+73
+00:07:25,120 --> 00:07:27,480
+So fucking good!
+
+74
+00:07:27,640 --> 00:07:30,280
+Like, fuck.
+
+75
+00:07:30,440 --> 00:07:33,240
+The glasses were foggy all the time.
+
+76
+00:07:33,400 --> 00:07:38,240
+She's a fucking hero. I'm on a parking lot, so I'll pull away.
+
+77
+00:07:40,800 --> 00:07:45,080
+Feel free to start Responder in analyze mode, right away.
+
+78
+00:07:45,240 --> 00:07:51,880
+There's a risk that he ... When I said what wanted to do, he paused.
+
+79
+00:07:52,040 --> 00:07:57,000
+It feels like I've done something bad, and we have.
+
+80
+00:08:02,000 --> 00:08:06,200
+At the end of 2020 there was a major supply chain attack
+
+81
+00:08:06,360 --> 00:08:09,600
+- against the security company Solarwinds.
+
+82
+00:08:09,760 --> 00:08:13,880
+In the attack, malicious code was spread to Solarwind's customers -
+
+83
+00:08:14,040 --> 00:08:19,000
+–For instance the US military and several other security companies.
+
+84
+00:08:19,160 --> 00:08:25,000
+In Sweden, e.g. Volvo Cars, Skanska and Space Agency.
+
+85
+00:08:32,400 --> 00:08:38,400
+The US Treasury Department pointed out Russia as responsible for the attack.
+
+86
+00:08:47,680 --> 00:08:54,120
+I'm so fucking ... almost vomiting now,  ... of adrenaline.
+
+87
+00:09:04,480 --> 00:09:10,960
+How do we start the conversation? Only: "Hello, we want to hack your business."
+
+88
+00:09:11,120 --> 00:09:15,000
+While Linus is investigating the company from the inside -
+
+89
+00:09:15,160 --> 00:09:19,520
+- they meet with the company's CEO to discuss the assignment.
+
+90
+00:09:19,680 --> 00:09:23,400
+The CEO does not know that the hackers have jumpstarted.
+
+91
+00:09:23,560 --> 00:09:27,680
+- Wanna have lunch and talk? -Yes, we should do that.
+
+92
+00:09:27,840 --> 00:09:31,280
+Nobody at Langate knows this.
+
+93
+00:09:31,440 --> 00:09:36,400
+No one on the staff, no one knows that this will be done.
+
+94
+00:09:36,560 --> 00:09:41,680
+I do not know the details myself, but now I'm going to be hacked.
+
+95
+00:09:41,840 --> 00:09:45,680
+"Good luck." But not too much "luck".
+
+96
+00:09:45,840 --> 00:09:51,480
+We at Langate know that we may be the victim of a hacker attack -
+
+97
+00:09:51,640 --> 00:09:54,640
+-To access our customers.
+
+98
+00:09:54,800 --> 00:10:00,720
+- We want to create as good protection as we can. -Because you become the most sensitive part.
+
+99
+00:10:00,880 --> 00:10:06,520
+Yes, we will be the service provider supply chain to others.
+
+100
+00:10:06,680 --> 00:10:09,960
+Potentially, one could reach–
+
+101
+00:10:10,120 --> 00:10:14,520
+-About a hundred customers important information.
+
+102
+00:10:14,680 --> 00:10:20,880
+-Or make do ransomware attack ... -Some kind of malicious code.
+
+103
+00:10:21,040 --> 00:10:27,440
+Or just access information that you see has an incredible business value.
+
+104
+00:10:32,680 --> 00:10:38,440
+I had an experience this weekend. A customer who has refused protection -
+
+105
+00:10:38,600 --> 00:10:42,080
+-And insist that we publish our terminal server.
+
+106
+00:10:42,240 --> 00:10:49,040
+Then they got ransomware, and boom the pay system stopped working. Nasty!
+
+107
+00:10:49,200 --> 00:10:54,360
+Ransomware is a billion dollar industry. It will only get bigger.
+
+108
+00:10:54,520 --> 00:10:59,640
+Swedish companies that are attacked by ransomware and pays ...
+
+109
+00:10:59,800 --> 00:11:05,640
+The total amount per year amounts to several billion SEK.
+
+110
+00:11:05,800 --> 00:11:11,000
+There are cases where Swedish companies has paid close to 300 million–
+
+111
+00:11:11,160 --> 00:11:15,560
+-To get their files unlocked. And that is ONE company.
+
+112
+00:11:16,560 --> 00:11:22,760
+A hacker who accessed resources can perform a ransomware attack.
+
+113
+00:11:22,920 --> 00:11:26,680
+What happens is that all files are encrypted and locked.
+
+114
+00:11:26,840 --> 00:11:30,760
+Now a key is required to restore everything.
+
+115
+00:11:30,920 --> 00:11:37,080
+The files were hijacked by the hacker, who demands money to unlock.
+
+116
+00:11:38,280 --> 00:11:43,440
+The Coop food chain had to close almost all of its 800 stores.
+
+117
+00:11:43,600 --> 00:11:46,320
+-After the cash register system failed.
+
+118
+00:11:46,480 --> 00:11:50,640
+This summer, Coop was hit by a ransomware attack-
+
+119
+00:11:50,800 --> 00:11:53,680
+-Which was also a supply chain attack.
+
+120
+00:11:53,840 --> 00:11:58,320
+Operation of Coop's cash register system is handled by the company Visma Esscom.
+
+121
+00:11:58,480 --> 00:12:03,440
+Visma in turn uses services from the company Kaseya.
+
+122
+00:12:03,600 --> 00:12:07,200
+It was Kaseya who was attacked by a hacker.
+
+123
+00:12:07,360 --> 00:12:13,720
+The malicious code was spread to Visma and caused Coop's cash registers to be locked.
+
+124
+00:12:13,880 --> 00:12:20,600
+Coop had to close 800 stores while they restarted all cash registers manually.
+
+125
+00:12:21,760 --> 00:12:27,520
+There are more examples of attacks which affected companies and infrastructure.
+
+126
+00:12:27,680 --> 00:12:31,560
+2019 the aluminium manufacturer Norsk Hydro was affected.
+
+127
+00:12:31,720 --> 00:12:36,080
+It was enough for an employee to click on a link in an email.
+
+128
+00:12:36,240 --> 00:12:40,720
+The hackers entered Hydro's IT environment and planted a virus–
+
+129
+00:12:40,880 --> 00:12:45,480
+-Which they used to encrypt information throughout the company.
+
+130
+00:12:45,640 --> 00:12:50,280
+Computers and servers were locked and production lines stopped.
+
+131
+00:12:50,440 --> 00:12:55,240
+The total sum for the attack estimated at $ 75 million.
+
+132
+00:12:55,400 --> 00:12:58,520
+Norsk Hydro never paid any ransom.
+
+133
+00:12:58,680 --> 00:13:04,720
+They had backups on their data and was able to restart operations.
+
+134
+00:13:04,880 --> 00:13:11,600
+Sensitive information about bank vaults, alarms systems and the government is online.
+
+135
+00:13:11,760 --> 00:13:18,520
+The security company Gunnebo was hit by a ransomware attack in 2020.
+
+136
+00:13:18,680 --> 00:13:24,560
+Gunnebo refused to pay the ransom. About 38,000 documents were leaked -
+
+137
+00:13:24,720 --> 00:13:27,280
+and are exposed online.
+
+138
+00:13:27,440 --> 00:13:31,680
+drawings of bank vaults, alarm systems and sensitive facilities.
+
+139
+00:13:31,840 --> 00:13:37,680
+In a survey among 150 IT-managers at Swedish companies -
+
+140
+00:13:37,840 --> 00:13:44,040
+- 30% state that they've been exposed to one ransomware attack in the last year.
+
+141
+00:13:54,240 --> 00:13:57,680
+Here we go. Let's do it.
+
+142
+00:13:57,840 --> 00:14:03,200
+-Now we're on our way. How nice! -It's fun to watch it.
+
+143
+00:14:04,480 --> 00:14:07,920
+Hey! I'm here to measure some moisture in your walls.
+
+144
+00:14:08,080 --> 00:14:12,240
+- From Sölvesborgs Construction, or? -Yes. Or from Sölvesborg municipality.
+
+145
+00:14:12,400 --> 00:14:15,680
+I checked under the sink and so on.
+
+146
+00:14:17,440 --> 00:14:22,920
+- Moist tile, then?. -Yeah, what the hell do I know?
+
+147
+00:14:23,080 --> 00:14:29,360
+In an attack like this, you don't know how prepared the victim is.
+
+148
+00:14:29,520 --> 00:14:34,720
+So you need to do it slowly and carefully, so that you do not ...
+
+149
+00:14:34,880 --> 00:14:39,840
+You don't want to make too much noise in the network.
+
+150
+00:14:40,000 --> 00:14:45,480
+You don't know what to expect. It's a bit like a maze without a map.
+
+151
+00:14:45,640 --> 00:14:52,040
+You have a bunch of cool tools, but there are monsters in the maze.
+
+152
+00:14:52,200 --> 00:14:58,360
+- No password spraying, just. -No no no.
+
+153
+00:14:59,520 --> 00:15:04,040
+Come on...! I Having some issues here.
+
+154
+00:15:06,160 --> 00:15:12,920
+We start to map out what is there. We clearly see people going home.
+
+155
+00:15:13,080 --> 00:15:18,680
+We have no success. The attacks which we normally use do not work.
+
+156
+00:15:18,840 --> 00:15:21,680
+I'm wondering if we should test–
+
+157
+00:15:21,840 --> 00:15:25,960
+-to do an active Responder on ONE computer.
+
+158
+00:15:26,120 --> 00:15:31,280
+-They have a lot of different things. - That's what I'm looking at.
+
+159
+00:15:31,440 --> 00:15:35,480
+I can't take it. I have to sleep.
+
+160
+00:15:35,640 --> 00:15:39,560
+We have a program which will run overnight–
+
+161
+00:15:39,720 --> 00:15:42,880
+-And when they come to the office tomorrow.
+
+162
+00:15:43,040 --> 00:15:48,280
+Hopefully someone has a laptop with them that they had brought home.
+
+163
+00:15:48,440 --> 00:15:54,280
+When they start it, it will hopefully trigger something that we can catch.
+
+164
+00:15:54,440 --> 00:15:58,680
+There is a reason to stay late.
+
+165
+00:15:58,840 --> 00:16:02,240
+You can do bolder things on the network -
+
+166
+00:16:02,400 --> 00:16:06,400
+- without worrying about people noticing it.
+
+167
+00:16:06,560 --> 00:16:10,120
+So there is every reason to stay late.
+
+168
+00:16:35,800 --> 00:16:40,960
+Ransomware attacks are common, but a crime that few want to talk about.
+
+169
+00:16:41,120 --> 00:16:46,120
+SVT has asked several companies subjected to major attacks -
+
+170
+00:16:46,280 --> 00:16:50,680
+- but none of them want to line up for an interview.
+
+171
+00:16:50,840 --> 00:16:54,200
+Nobody knows how common it is–
+
+172
+00:16:54,360 --> 00:16:58,600
+-Because companies do not report it to the police.
+
+173
+00:16:58,760 --> 00:17:03,760
+It may be that they think that the police will do nothing -
+
+174
+00:17:03,920 --> 00:17:08,600
+-Or that you do not want to broadcast that you have had an attack -
+
+175
+00:17:08,760 --> 00:17:13,120
+-Which has hit hard, because companies think it would mean-
+
+176
+00:17:13,280 --> 00:17:20,000
+-That "we show that we have bad security and get no customers ".
+
+177
+00:17:38,320 --> 00:17:42,080
+We have to be a bit more structured now.
+
+178
+00:17:42,240 --> 00:17:46,160
+- For Responder ... -Responder has no hits.
+
+179
+00:17:46,320 --> 00:17:50,680
+When we arrived today, nothing had happened.
+
+180
+00:17:50,840 --> 00:17:56,280
+We have to reach all these customers, that's the goal.
+
+181
+00:17:56,440 --> 00:18:00,520
+We need to access a machine, the backup server ...
+
+182
+00:18:00,680 --> 00:18:04,160
+We need to reach customers.
+
+183
+00:18:04,320 --> 00:18:11,480
+They may very well have some tech nerd who've made sure they are safe.
+
+184
+00:18:11,640 --> 00:18:16,560
+It's a disaster for us. Then we have to get very creative.
+
+185
+00:18:20,720 --> 00:18:25,800
+In the worst case you had a good idea there, Linus.
+
+186
+00:18:25,960 --> 00:18:33,000
+Trying to poison the network and force a machine to connect to us.
+
+187
+00:18:33,160 --> 00:18:38,320
+Maybe we should perform a bolder attack anyway.
+
+188
+00:18:38,480 --> 00:18:42,720
+With bolder I mean: If we're looking for something in a forest
+
+189
+00:18:42,880 --> 00:18:47,840
+- then we'll blow away all the trees to find something on the ground.
+
+190
+00:18:48,000 --> 00:18:53,760
+Jesper's attack will possibly stop the network from working -
+
+191
+00:18:53,920 --> 00:18:56,720
+-For the ones we attack.
+
+192
+00:18:56,880 --> 00:19:03,280
+Our tiny computer, which we have hidden behind a cupboard inside the company ...
+
+193
+00:19:03,440 --> 00:19:08,440
+We decided to tunnel all traffic through this little point–
+
+194
+00:19:08,600 --> 00:19:14,680
+-To force everything that is sitting in the network to do what we want.
+
+195
+00:19:14,840 --> 00:19:18,560
+Nobody remembers a coward. Shall we press all three?
+
+196
+00:19:18,720 --> 00:19:22,800
+-Shared responsibility is not responsibility. - You have full power.
+
+197
+00:19:22,960 --> 00:19:26,080
+I'll press now, then.
+
+198
+00:19:29,920 --> 00:19:33,120
+It's running.
+
+199
+00:19:33,280 --> 00:19:36,640
+Yes! New hash. Damn, what a treat.
+
+200
+00:19:39,480 --> 00:19:42,720
+Come on now!
+
+201
+00:19:42,880 --> 00:19:46,520
+It will be seen, this is noisy.
+
+202
+00:19:46,680 --> 00:19:49,200
+Yes, and it does.
+
+203
+00:19:49,360 --> 00:19:51,880
+–Oh, oh. - What?
+
+204
+00:19:52,040 --> 00:19:56,680
+- Have you found a net? Min session är nere.
+
+205
+00:19:56,840 --> 00:19:59,080
+-No no no....
+
+206
+00:20:00,360 --> 00:20:03,600
+They found it?
+
+207
+00:20:06,360 --> 00:20:11,160
+After a while our terminal freeze–
+
+208
+00:20:11,320 --> 00:20:17,960
+- and we lose the connection to our unit that sits on the inside.
+
+209
+00:20:18,120 --> 00:20:21,120
+Yes, I'm all out.
+
+210
+00:20:23,320 --> 00:20:28,560
+- Damn. We were too aggressive. -Yes, you can probably say that.
+
+211
+00:20:28,720 --> 00:20:35,520
+They find our box and disconnect it. We lose the connection. Game over.
+
+212
+00:20:39,480 --> 00:20:46,360
+Now that we are blind again and have no access, we have a few hashes.
+
+213
+00:20:46,520 --> 00:20:52,040
+The hashes are the cryptographic equivalent of a password.
+
+214
+00:20:52,200 --> 00:20:56,640
+And we can crack these using computing power.
+
+215
+00:20:56,800 --> 00:21:03,520
+Powerful computers with graphics cards which we ask to solve our problem.
+
+216
+00:21:06,960 --> 00:21:13,640
+Time is running out. While Linus is trying to crack passwords
+
+217
+00:21:13,800 --> 00:21:17,520
+- Jinny and Jesper go back to the company office.
+
+218
+00:21:17,680 --> 00:21:21,600
+It's time to reveal ourselves.
+
+219
+00:21:21,760 --> 00:21:26,560
+We'll see what they answer, if they have noticed anything.
+
+220
+00:21:27,320 --> 00:21:32,000
+-Welcome! -Thank you. - After you.
+
+221
+00:21:32,160 --> 00:21:35,640
+-Are you having a good time? -Yes.
+
+222
+00:21:37,480 --> 00:21:43,680
+We have some friends with us, me and my colleague:
+
+223
+00:21:43,840 --> 00:21:47,200
+Jinny, or Frida.
+
+224
+00:21:47,360 --> 00:21:51,160
+We work as IT security experts.
+
+225
+00:21:51,320 --> 00:21:54,240
+We have been doing some stuff with you.
+
+226
+00:21:55,600 --> 00:22:01,120
+It's silence. Everything has been good? The week has been good?
+
+227
+00:22:01,280 --> 00:22:03,760
+No disturbances?
+
+228
+00:22:03,920 --> 00:22:07,720
+My feeling when these two people came in:
+
+229
+00:22:07,880 --> 00:22:12,480
+"Wow, now he's hired an entertainment group "-
+
+230
+00:22:12,640 --> 00:22:17,960
+- "which will entertain us." They said they were IT experts.
+
+231
+00:22:18,120 --> 00:22:23,920
+So I'm thinking: "Yes, now there will be a lot of IT jokes, because that's our thing. "
+
+232
+00:22:24,080 --> 00:22:27,960
+Anyone recognize my colleague here?
+
+233
+00:22:28,960 --> 00:22:34,640
+-Yes! No, what the hell ... - You should recognize me.
+
+234
+00:22:34,800 --> 00:22:39,440
+Oh, what the hell is that ...? Ah! Okay!
+
+235
+00:22:39,600 --> 00:22:46,240
+Then I recognize Jinny, who has infiltrated us.
+
+236
+00:22:46,400 --> 00:22:50,000
+I'm the one who opens the door.
+
+237
+00:22:50,160 --> 00:22:54,720
+Hey! I'm here to measure some moisture in your walls.
+
+238
+00:22:54,880 --> 00:23:00,800
+-What did we do here, quite simply? -You were measuring moi ...
+
+239
+00:23:05,840 --> 00:23:09,920
+It was a very positive reaction. I was afraid he would get angry.
+
+240
+00:23:10,080 --> 00:23:14,880
+But he laughed and ... So there's shock, but laughter, as well.
+
+241
+00:23:15,040 --> 00:23:19,960
+I'm in a call when I open the door. I'm talking to a customer about security.
+
+242
+00:23:20,120 --> 00:23:23,360
+I say, "The doorbell rings."
+
+243
+00:23:23,520 --> 00:23:28,240
+"Hi, my name is Frida I'm going to measure moisture. "-" Yes, go ahead. "
+
+244
+00:23:28,400 --> 00:23:32,120
+"It's very important, with security! "
+
+245
+00:23:34,040 --> 00:23:38,320
+But you haven't noticed anything on infrastructure or ...?
+
+246
+00:23:38,480 --> 00:23:45,040
+We noticed a response on the computer, which did not feel natural.
+
+247
+00:23:45,200 --> 00:23:48,200
+What's supposed to happen doesn't happen–
+
+248
+00:23:48,360 --> 00:23:52,640
+- instead we get a  login box. That's weird.
+
+249
+00:23:52,800 --> 00:23:58,600
+We have seen a small box in a room which you may have put there.
+
+250
+00:23:58,760 --> 00:24:02,280
+I suspect that it's no longer connected.
+
+251
+00:24:02,440 --> 00:24:08,080
+-How did you find it? -A colleague of mine saw it.
+
+252
+00:24:08,240 --> 00:24:14,680
+In reality, one of our customers was attacked for real.
+
+253
+00:24:14,840 --> 00:24:19,840
+So Jörgen and I request  people to come here, and tell them:
+
+254
+00:24:20,000 --> 00:24:24,320
+"Now we have prio 1 alert. Someone has been hacked. "
+
+255
+00:24:24,480 --> 00:24:27,480
+Pretty strange, weird timing.
+
+256
+00:24:27,640 --> 00:24:31,560
+They had another incident at the same time.
+
+257
+00:24:31,720 --> 00:24:35,200
+A customer had an intrusion while we were doing stuff.
+
+258
+00:24:35,360 --> 00:24:39,120
+"I see a box. Do you know anything about it?"
+
+259
+00:24:39,280 --> 00:24:43,840
+"No. No idea what internal project is this? "
+
+260
+00:24:44,000 --> 00:24:46,440
+"Then I want to disconnect it."
+
+261
+00:24:46,600 --> 00:24:51,520
+We could have stayed in the network longer if they did not have the incident.
+
+262
+00:24:51,680 --> 00:24:54,440
+So that was just unfortunate.
+
+263
+00:24:55,520 --> 00:25:01,760
+People have lost three years of work because they've been attacked.
+
+264
+00:25:01,920 --> 00:25:08,320
+They attacked the data, but also the backup of the data. Then it's gone.
+
+265
+00:25:08,480 --> 00:25:13,040
+Then you cry for real. You've worked for three years–
+
+266
+00:25:13,200 --> 00:25:16,600
+-for nothing and have to start over.
+
+267
+00:25:16,760 --> 00:25:20,280
+There is nothing to recreate or save.
+
+268
+00:25:20,440 --> 00:25:25,480
+We have taken two passwords and given them to our machines.
+
+269
+00:25:25,640 --> 00:25:30,800
+They're cracking the password still. It's not cracked yet.
+
+270
+00:25:30,960 --> 00:25:38,200
+We have had a very short time - we have spent almost two days on planning.
+
+271
+00:25:38,360 --> 00:25:42,520
+It's just a matter of time before this gets cracked.
+
+272
+00:25:42,680 --> 00:25:46,600
+We got our hands on two encrypted passwords - hashes.
+
+273
+00:25:46,760 --> 00:25:52,840
+We have tried to crack them for 24 hours and have not succeeded yet.
+
+274
+00:25:53,000 --> 00:25:57,560
+It's sad for us, but a good grade for Langate.
+
+275
+00:25:57,720 --> 00:26:01,920
+In my world you have succeeded, even if you don't think so.
+
+276
+00:26:02,080 --> 00:26:05,320
+The hackers managed to infiltrate the IT company–
+
+277
+00:26:05,480 --> 00:26:10,080
+-And had access to their network for over a day.
+
+278
+00:26:10,240 --> 00:26:14,880
+They could not get past the company's security system -
+
+279
+00:26:15,040 --> 00:26:18,840
+-And therefore could not access the customers in the network.
+
+280
+00:26:19,000 --> 00:26:23,200
+The passwords that the hackers came across kept good quality.
+
+281
+00:26:23,360 --> 00:26:27,680
+Attempts to crack them were discontinued after 48 hours.
+
+282
+00:26:27,840 --> 00:26:31,200
+They remain unresolved.
+
+283
+00:26:31,360 --> 00:26:37,280
+If I were an evil hacker, I'd be quieter–
+
+284
+00:26:37,440 --> 00:26:41,800
+- and take my time. When I had enough customers -
+
+285
+00:26:41,960 --> 00:26:45,520
+- I'd probably encrypt everything–
+
+286
+00:26:45,680 --> 00:26:48,680
+-And requested loads of money in ransom.
+
+287
+00:26:48,840 --> 00:26:54,160
+If they don't pay, yeah, go bankrupt, then.
+
+288
+00:26:54,320 --> 00:26:56,840
+"What do I care? I'm evil."
+
+289
+00:27:03,480 --> 00:27:07,880
+We currently don't have a basic level of security -
+
+290
+00:27:08,040 --> 00:27:12,080
+-So that we have a fairly high bar. The higher the bar is–
+
+291
+00:27:12,240 --> 00:27:16,480
+-The more costly and time consuming it is for an attacker-
+
+292
+00:27:16,640 --> 00:27:23,480
+- to try to access the information. This is business-critical.
+
+293
+00:27:23,640 --> 00:27:29,000
+This is what boards should be accustomed to dealing with.
+
+294
+00:27:29,160 --> 00:27:33,000
+You see investments in security as a cost.
+
+295
+00:27:33,160 --> 00:27:37,480
+If you see it as an investment, something that gives a return–
+
+296
+00:27:37,640 --> 00:27:44,640
+-it's easier to argue for. It's about the company's survival.
+
+297
+00:27:44,800 --> 00:27:51,480
+This has to end now. I'm tired of talking to desperate people -
+
+298
+00:27:51,640 --> 00:27:57,400
+-who get in trouble because of hacker attacks all the time.
+
+299
+00:28:03,320 --> 00:28:09,320
+Good morning, Klara. Hope you have slept well. Today it's sunny outside.
+
+300
+00:28:09,480 --> 00:28:14,400
+This so-called IoT man is like a damn mad scientist.
+
+301
+00:28:14,560 --> 00:28:17,720
+I'm safe, they're not getting in.
+
+302
+00:28:17,880 --> 00:28:21,880
+-Check if you get access. -It's up, we're in.
+

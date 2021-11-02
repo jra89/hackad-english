@@ -1,0 +1,1256 @@
+1
+00:00:10,920 --> 00:00:15,840
+Sweden is very computerized. This creates attack surfaces.
+
+2
+00:00:34,800 --> 00:00:37,520
+The threat is real.
+
+3
+00:00:37,680 --> 00:00:42,920
+Not much resources are put into security as would need to.
+
+4
+00:00:51,640 --> 00:00:58,040
+SVT has hired four professional hackers attack individuals–
+
+5
+00:00:58,200 --> 00:01:03,480
+and companies, to show how vulnerable we are in our connected society.
+
+6
+00:01:03,640 --> 00:01:08,240
+The basic functions of society are constantly attacked–
+
+7
+00:01:08,400 --> 00:01:10,680
+And the results can be catastrophic.
+
+8
+00:01:10,840 --> 00:01:15,240
+Can our hackers access an important company?
+
+9
+00:01:31,240 --> 00:01:34,960
+We have received a mission, so we'll run through it.
+
+10
+00:01:35,120 --> 00:01:38,000
+It's Helsingborgshem.
+
+11
+00:01:38,160 --> 00:01:43,560
+They have just moved to new premises with "max security".
+
+12
+00:01:43,720 --> 00:01:49,160
+A brand new building, nice lobby and everything like that.
+
+13
+00:01:49,320 --> 00:01:53,800
+Helsingborgshem has 1/5 of all residents in Helsingborg.
+
+14
+00:01:53,960 --> 00:01:59,760
+Businesses, health centers, schools - in addition to ordinary flats.
+
+15
+00:01:59,920 --> 00:02:02,720
+It's a large part of Helsingborg.
+
+16
+00:02:02,880 --> 00:02:09,800
+They have asked us to test the security of the building.
+
+17
+00:02:09,960 --> 00:02:15,240
+We have to get inside and place a computer.
+
+18
+00:02:15,400 --> 00:02:18,560
+I've already been there.
+
+19
+00:02:18,720 --> 00:02:23,680
+They have good access systems, so you need cards, possibly code.
+
+20
+00:02:23,840 --> 00:02:28,920
+There's tall glass doors which closes tightly–
+
+21
+00:02:29,080 --> 00:02:32,480
+-So it won't be easy to accompany someone inside.
+
+22
+00:02:32,640 --> 00:02:38,320
+I have checked the entrances. We need to get in via the main entrance.
+
+23
+00:02:38,480 --> 00:02:43,640
+- During Covid, this becomes hard. - It will be a challenge.
+
+24
+00:02:45,800 --> 00:02:53,040
+Richard is the IT-manager and security manager at the company.
+
+25
+00:02:53,200 --> 00:02:57,240
+We have agreed to this because we want to test ourselves.
+
+26
+00:02:57,400 --> 00:03:03,320
+That is a crucial issue and it is very important to address it.
+
+27
+00:03:03,480 --> 00:03:09,720
+If we can help others see the importance, then it's great.
+
+28
+00:03:09,880 --> 00:03:14,040
+The mission is to enter the head office -
+
+29
+00:03:14,200 --> 00:03:17,480
+and place a computer.
+
+30
+00:03:17,640 --> 00:03:24,000
+Via the computer we can infiltrate the network and take over:
+
+31
+00:03:24,160 --> 00:03:29,520
+The register where protected info about the tenants is available–
+
+32
+00:03:29,680 --> 00:03:34,440
+And housing queue. Can they manipulate the system–
+
+33
+00:03:34,600 --> 00:03:38,120
+-And put themselves first in line?
+
+34
+00:03:43,360 --> 00:03:47,360
+For me, it's interesting to see how they do it–
+
+35
+00:03:47,520 --> 00:03:52,960
+-Because we have not informed staff that this is underway.
+
+36
+00:03:53,120 --> 00:03:57,520
+No one, except me, knows what we are doing.
+
+37
+00:04:01,040 --> 00:04:05,840
+I think "social engineering" - part will succeed.
+
+38
+00:04:06,000 --> 00:04:11,000
+But I do not think the network attack will succeed.
+
+39
+00:04:14,400 --> 00:04:18,240
+Social manipulation, or "social engineering", means-
+
+40
+00:04:18,400 --> 00:04:24,320
+- that a hacker exploits someones strong instinct to be social.
+
+41
+00:04:24,480 --> 00:04:27,720
+We'll send an email to the reception which says-
+
+42
+00:04:27,880 --> 00:04:32,240
+- that the consultant needs access to a conference room.
+
+43
+00:04:32,400 --> 00:04:39,320
+It will look like it came from the manager to trick the reception.
+
+44
+00:04:39,480 --> 00:04:44,520
+Linus has registered a domain that is identical to Helsingborgshems.
+
+45
+00:04:44,680 --> 00:04:47,120
+"L" is replaced by a capital "i".
+
+46
+00:04:47,280 --> 00:04:52,960
+It's impossible to see if the mail comes from the real IT-manager.
+
+47
+00:04:53,960 --> 00:05:00,680
+15 minutes before David arrives at the reception we will send the email.
+
+48
+00:05:00,840 --> 00:05:07,080
+They won't have time to call people and double check, it should be hectic.
+
+49
+00:05:07,240 --> 00:05:10,680
+-Let's press "send". -Yes.
+
+50
+00:05:12,200 --> 00:05:15,680
+–11.32 it was sent. -Here we go.
+
+51
+00:05:15,840 --> 00:05:20,200
+If David enters a conference room, he can place a minicomputer there.
+
+52
+00:05:20,360 --> 00:05:23,960
+Then it can call out to our server.
+
+53
+00:05:40,480 --> 00:05:45,640
+One of the most common ways today is via social engineering.
+
+54
+00:05:45,800 --> 00:05:51,240
+You look for a person - it can be the receptionist, or support.
+
+55
+00:05:51,400 --> 00:05:58,000
+Both functions are there to help visitors and customers adjust.
+
+56
+00:05:58,160 --> 00:06:02,320
+Nor can they question everything.
+
+57
+00:06:02,480 --> 00:06:09,360
+They need to learn to see through, be suspicious and think:
+
+58
+00:06:09,520 --> 00:06:12,480
+"Is this really true?"
+
+59
+00:06:12,640 --> 00:06:18,760
+Hey! My name is David. I was contacted by Richard Mauritsson.
+
+60
+00:06:18,920 --> 00:06:23,440
+With a tool bag, or delivery or whatever–
+
+61
+00:06:23,600 --> 00:06:27,800
+-You often come in in many places.
+
+62
+00:06:27,960 --> 00:06:30,360
+Welcome!
+
+63
+00:06:30,520 --> 00:06:34,440
+Once inside, then you are inside the shell.
+
+64
+00:06:34,600 --> 00:06:39,000
+And inside anything can happen.
+
+65
+00:06:39,160 --> 00:06:41,640
+I'm going to call him.
+
+66
+00:06:41,800 --> 00:06:46,560
+He has sent an email and has booked a conference room for me.
+
+67
+00:06:47,680 --> 00:06:54,400
+He said he had contacted you. You should have an email.
+
+68
+00:06:54,560 --> 00:06:58,280
+He has cc:ed me.
+
+69
+00:06:58,440 --> 00:07:02,520
+A larger company in Sweden discovered by chance
+
+70
+00:07:02,680 --> 00:07:06,800
+- they had a server that was not theirs.
+
+71
+00:07:06,960 --> 00:07:13,120
+That you can trick your way in via "social engineering" .....
+
+72
+00:07:13,280 --> 00:07:18,000
+One manipulates, says that you have an important errand –
+
+73
+00:07:18,160 --> 00:07:20,920
+- it happens all the time.
+
+74
+00:07:21,080 --> 00:07:24,920
+He said to me that he would be busy today.
+
+75
+00:07:25,080 --> 00:07:29,720
+I can't talk about it, but there has been an incident.
+
+76
+00:07:31,640 --> 00:07:36,000
+The issue is that it's internal –
+
+77
+00:07:36,160 --> 00:07:40,280
+-So everyone may not have been informed.
+
+78
+00:07:40,440 --> 00:07:43,560
+I can't really tell you.
+
+79
+00:07:43,720 --> 00:07:50,200
+So I get it, I was woken up this morning too. Hope you understand.
+
+80
+00:07:50,360 --> 00:07:53,240
+She looks at the email, at me–
+
+81
+00:07:53,400 --> 00:07:57,200
+- then they close the door and start talking to each other.
+
+82
+00:07:57,360 --> 00:08:00,040
+"Now I'm fucked, now I'm done."
+
+83
+00:08:01,600 --> 00:08:08,520
+The receptionist called me, who was a little unsure about a man–
+
+84
+00:08:08,680 --> 00:08:15,280
+-Who wanted a conference room. She wondered, "Should I let him inside?"
+
+85
+00:08:15,440 --> 00:08:21,000
+Because I had not sent an email I also became suspicious.
+
+86
+00:08:21,160 --> 00:08:27,080
+I did not know if it was SVT. It could be a confused consultant.
+
+87
+00:08:27,240 --> 00:08:32,440
+- You'll have to call Richard. -Perfect. I'm calling from here?
+
+88
+00:08:41,280 --> 00:08:43,920
+I'm taking one last chance.
+
+89
+00:08:44,080 --> 00:08:49,000
+If she's just listening to my tone that I am nervous or insecure–
+
+90
+00:08:49,160 --> 00:08:54,040
+- She'll throw me out. I say, "Hey!, it's David. I'm here. "
+
+91
+00:08:54,200 --> 00:08:57,240
+She doesn't know Richard's reply.
+
+92
+00:08:59,720 --> 00:09:04,240
+I'm a colleague of Linus Kvarnhammar.
+
+93
+00:09:08,800 --> 00:09:14,200
+Our receptionist was exemplary. She was insecure and contacted me.
+
+94
+00:09:14,360 --> 00:09:19,760
+I am very happy and very proud of that our staff has that insight.
+
+95
+00:09:19,920 --> 00:09:21,680
+Thanks.
+
+96
+00:09:21,840 --> 00:09:25,360
+It was "game over", we were "busted".
+
+97
+00:09:25,520 --> 00:09:28,680
+She called Richard immediately. He did not answer.
+
+98
+00:09:28,840 --> 00:09:32,640
+She called, called, then he picked up.
+
+99
+00:09:32,800 --> 00:09:35,520
+Shame. That's how it is.
+
+100
+00:09:37,840 --> 00:09:42,160
+It feels like a huge failure.
+
+101
+00:09:42,320 --> 00:09:47,440
+To have planned something so well, the adrenaline pumps  ...
+
+102
+00:09:47,600 --> 00:09:50,440
+And we didn't succeed.
+
+103
+00:09:50,600 --> 00:09:56,720
+Their new office feels thought out and hard to access.
+
+104
+00:09:56,880 --> 00:10:01,040
+They have thought about the physical security.
+
+105
+00:10:01,200 --> 00:10:05,800
+We had to regroup, me and Linus, and think differently.
+
+106
+00:10:05,960 --> 00:10:11,280
+When we were going to the new building, there were two addresses.
+
+107
+00:10:11,440 --> 00:10:14,840
+The new address, and an old one.
+
+108
+00:10:15,000 --> 00:10:19,320
+Helsingborgshem has two. We have been to one.
+
+109
+00:10:19,480 --> 00:10:24,840
+The other is at on Drottninggatan out by the bathing area.
+
+110
+00:10:25,000 --> 00:10:30,080
+Then we saw that it existed another office that may be alive.
+
+111
+00:10:30,240 --> 00:10:34,680
+- We'll go there then. I'm lost.
+
+112
+00:10:39,560 --> 00:10:44,160
+We'll see when we arrive. this rundown building.
+
+113
+00:10:44,320 --> 00:10:47,920
+Lights are off, it's dark.
+
+114
+00:10:48,080 --> 00:10:51,440
+It said that the office has moved.
+
+115
+00:10:51,600 --> 00:10:56,280
+- They're at Drottninghög. -They have moved? Thanks.
+
+116
+00:10:56,440 --> 00:10:59,320
+It seemed totally dead, initially.
+
+117
+00:11:02,920 --> 00:11:08,320
+-No wireless networks? -We checked if there was wifi.
+
+118
+00:11:08,480 --> 00:11:12,320
+Yes, here. One unprotected network.
+
+119
+00:11:17,280 --> 00:11:21,040
+I find an open network called Helsingborgshem–
+
+120
+00:11:21,200 --> 00:11:25,560
+And a closed one called Hbghem. Here's a lot of stuff.
+
+121
+00:11:25,720 --> 00:11:30,440
+When we sit there and hack, we see a person enter the building.
+
+122
+00:11:30,600 --> 00:11:36,280
+It wasn't totally dead then. So maybe it's possible to get in.
+
+123
+00:11:43,520 --> 00:11:46,000
+A person is coming.
+
+124
+00:11:46,160 --> 00:11:52,480
+It only takes a minute. It looks as if someone is entering the building.
+
+125
+00:11:59,080 --> 00:12:05,200
+So I went with her. She looked who I was and walked in a door.
+
+126
+00:12:07,400 --> 00:12:12,360
+- Did you see if she went up or down? -She went into a room here.
+
+127
+00:12:13,360 --> 00:12:16,400
+We Swedes are SO afraid of conflict.
+
+128
+00:12:16,560 --> 00:12:21,480
+We glance a little. "But what if someone is new?"
+
+129
+00:12:21,640 --> 00:12:26,640
+We dare not say, "What are you doing here?" It's something you have to do.
+
+130
+00:12:26,800 --> 00:12:30,640
+If you see someone you don't recognize, ask.
+
+131
+00:12:32,200 --> 00:12:38,160
+Wait a minute, another car is coming. Can you shut yourself in?
+
+132
+00:12:40,000 --> 00:12:44,920
+-Where are you now? -I'm in a storeroom.
+
+133
+00:12:46,840 --> 00:12:51,720
+The so-called caretaker is probably on his way in now–
+
+134
+00:12:51,880 --> 00:12:57,920
+- so be quiet and hope that that person goes upstairs.
+
+135
+00:13:04,040 --> 00:13:09,560
+Don't move. The person enters ... now.
+
+136
+00:13:23,320 --> 00:13:28,920
+I was looking for a place to plug our minicomputer into.
+
+137
+00:13:29,080 --> 00:13:33,320
+There were empty offices, some with handbags.
+
+138
+00:13:33,480 --> 00:13:38,080
+So I took one of the most empty, crawled down on the floor–
+
+139
+00:13:38,240 --> 00:13:41,240
+-Plugged it in and the network cable–
+
+140
+00:13:41,400 --> 00:13:47,640
+- and waited for a light to come on that shows there is network traffic.
+
+141
+00:13:50,280 --> 00:13:53,480
+No, I'm not getting a link.
+
+142
+00:13:53,640 --> 00:13:58,160
+Anticlimax. Could they have closed the network here?
+
+143
+00:13:58,320 --> 00:14:03,280
+But then it hit me that there was a reception.
+
+144
+00:14:03,440 --> 00:14:10,000
+And there was network equipment there. "What if those outlets are active?"
+
+145
+00:14:13,680 --> 00:14:17,120
+There I connected the small computer.
+
+146
+00:14:17,280 --> 00:14:20,640
+And the light began to shine.
+
+147
+00:14:20,800 --> 00:14:27,880
+"we could be done now. But I want to get it confirmed from the outside. "
+
+148
+00:14:28,040 --> 00:14:34,360
+I'm inside Helsingborgshem. Can you open your laptop quickly?
+
+149
+00:14:34,520 --> 00:14:39,040
+I have no way to verify that it works.
+
+150
+00:14:39,200 --> 00:14:44,560
+I just want to check that it has connected and then escape.
+
+151
+00:14:44,720 --> 00:14:48,040
+Then I hear voices outside.
+
+152
+00:14:48,200 --> 00:14:54,080
+A meeting room has been emptied of people who are standing outside.
+
+153
+00:14:54,240 --> 00:14:58,880
+And I have Jesper on the phone, to check if the computer is alive.
+
+154
+00:15:12,280 --> 00:15:16,800
+People outside are standing and talking. I have not locked the toilet door -
+
+155
+00:15:16,960 --> 00:15:23,160
+-So someone might open and go inside. and I'm standing there with a phone.
+
+156
+00:15:23,320 --> 00:15:29,000
+Jesper says: "Boom, looking really good. We are indeed in. "
+
+157
+00:15:29,160 --> 00:15:32,640
+"Found a domain controller. Good. We're really in. "
+
+158
+00:15:32,800 --> 00:15:34,640
+Yes!
+
+159
+00:15:34,800 --> 00:15:38,800
+We are on the right network. You have to try to get out now.
+
+160
+00:15:38,960 --> 00:15:44,960
+He can 't be there anymore, so he decides to play it super cool.
+
+161
+00:15:45,120 --> 00:15:50,440
+He flushes the toilet, opens the door and just walks out.
+
+162
+00:15:50,600 --> 00:15:56,640
+Opened and went out as if I belonged there. Turned my back to the people.
+
+163
+00:15:56,800 --> 00:16:00,440
+I don't even know if they saw me.
+
+164
+00:16:04,920 --> 00:16:09,160
+When I noticed that no one followed -
+
+165
+00:16:09,320 --> 00:16:12,320
+- was a really good feeling.
+
+166
+00:16:12,480 --> 00:16:18,200
+Now we have a wonderful time of hacking on the internal network in front of us.
+
+167
+00:16:18,360 --> 00:16:22,080
+Attacks on companies with important functions–
+
+168
+00:16:22,240 --> 00:16:25,360
+-Can have serious consequences.
+
+169
+00:16:32,080 --> 00:16:38,440
+One afternoon in February the sodium hydroxide levels rose at the
+
+170
+00:16:38,600 --> 00:16:41,880
+-waterworks in Oldsmar in Florida, USA.
+
+171
+00:16:42,040 --> 00:16:48,160
+Hackers had gotten into the system that controlled the plant.
+
+172
+00:16:54,560 --> 00:16:57,480
+A discharge of sodium lye in the water–
+
+173
+00:16:57,640 --> 00:17:01,320
+- could have led to catastrophic consequences.
+
+174
+00:17:01,480 --> 00:17:05,440
+Luckily an employee had the situation under control
+
+175
+00:17:05,600 --> 00:17:09,080
+-And lowered the levels again.
+
+176
+00:17:09,240 --> 00:17:14,280
+In May, long queues formed at gas stations on the east coast of USA.
+
+177
+00:17:14,440 --> 00:17:17,120
+The oil company Colonial's pipeline–
+
+178
+00:17:17,280 --> 00:17:21,040
+-Had been taken over by hackers which stopped oil supplies.
+
+179
+00:17:34,280 --> 00:17:37,280
+And in September last year a patient died
+
+180
+00:17:37,440 --> 00:17:42,040
+-When the hospital in Düsseldorf had been attacked by hackers–
+
+181
+00:17:42,200 --> 00:17:46,280
+- which made it impossible to receive patients.
+
+182
+00:17:46,440 --> 00:17:50,520
+An ambulance had to drive to a hospital in Wuppertal.
+
+183
+00:17:50,680 --> 00:17:57,120
+But when it arrived, it was too late. The patient had died.
+
+184
+00:17:58,320 --> 00:18:01,840
+These are just a few examples on cyberattacks–
+
+185
+00:18:02,000 --> 00:18:05,280
+- against important societal functions.
+
+186
+00:18:08,720 --> 00:18:13,160
+- Here come the hackers! - This is Jinny.
+
+187
+00:18:13,320 --> 00:18:17,200
+Jinny joined for the first time physically. Awesome.
+
+188
+00:18:17,360 --> 00:18:20,640
+She's an awesome hacker. It's going to be great.
+
+189
+00:18:20,800 --> 00:18:24,480
+- We have to go through everything. -What's our goal?
+
+190
+00:18:24,640 --> 00:18:31,320
+- We'll divide our tasks. - A wonderful, disorganized atmosphere.
+
+191
+00:18:31,480 --> 00:18:37,000
+You and I, Jesper, start mapping up the network.
+
+192
+00:18:37,160 --> 00:18:40,280
+Linus, you'll look at AD.
+
+193
+00:18:40,440 --> 00:18:46,320
+-David tried to organize the chaos. -I'll look at host discovery.
+
+194
+00:18:46,480 --> 00:18:51,480
+Jesper just wants to go in and attack everything and hack, super eager.
+
+195
+00:18:51,640 --> 00:18:55,440
+Let's not be too hasty and think that we ...
+
+196
+00:18:55,600 --> 00:19:00,680
+False "assumptions" can lead us into a "rabbit hole".
+
+197
+00:19:02,840 --> 00:19:08,800
+Then we started letting loose in four different ways.
+
+198
+00:19:08,960 --> 00:19:13,560
+You had a list. A combo list, or what have you found?
+
+199
+00:19:13,720 --> 00:19:19,840
+-You found it with leaked passwords. -Yes, but I haven't tried them.
+
+200
+00:19:20,000 --> 00:19:24,440
+Often when you start a test like this on a larger network -
+
+201
+00:19:24,600 --> 00:19:30,920
+-It's pretty chaotic. It's nice to be able to work unstructured.
+
+202
+00:19:31,080 --> 00:19:34,840
+They use Telia as an ISP at least.
+
+203
+00:19:35,000 --> 00:19:38,360
+Do you have the port scan results?
+
+204
+00:19:38,520 --> 00:19:42,240
+It's on Dropbox, in the recon folder.
+
+205
+00:19:42,400 --> 00:19:48,760
+Our mini-computer tricks computers to connect to us instead.
+
+206
+00:19:48,920 --> 00:19:52,120
+You can trick them to send secrets -
+
+207
+00:19:52,280 --> 00:19:55,280
+-Which you can crack if the password is bad.
+
+208
+00:19:55,440 --> 00:19:59,800
+Install wireguard tools, then you get a daemon
+
+209
+00:19:59,960 --> 00:20:03,640
+-Oh, what's this? -That's a ...
+
+210
+00:20:03,800 --> 00:20:07,080
+Take user once.
+
+211
+00:20:07,240 --> 00:20:10,840
+Rava, then. This feels very PLC.
+
+212
+00:20:11,000 --> 00:20:14,360
+Careful now.
+
+213
+00:20:18,320 --> 00:20:24,320
+We tricked a computer to give us a secret which we cracked pretty quickly.
+
+214
+00:20:24,480 --> 00:20:27,880
+Now you're toast, Richard! Soon.
+
+215
+00:20:31,280 --> 00:20:34,000
+Now, cracked.
+
+216
+00:20:34,160 --> 00:20:37,000
+No - Administrator!
+
+217
+00:20:37,960 --> 00:20:42,120
+Kerberoast is up and running. It took a few seconds–
+
+218
+00:20:42,280 --> 00:20:47,440
+- then we got a hit on the Administrator account.
+
+219
+00:20:47,600 --> 00:20:52,480
+The administrator has access to all machines on a network.
+
+220
+00:20:52,640 --> 00:20:57,480
+There is a group of such users at all companies.
+
+221
+00:20:57,640 --> 00:21:00,960
+I'm testing the password against the domain controller.
+
+222
+00:21:01,120 --> 00:21:04,080
+If it is green, the password works.
+
+223
+00:21:04,240 --> 00:21:09,640
+If it's yellow, then we're domain admin and own the entire network.
+
+224
+00:21:14,000 --> 00:21:16,600
+–Boom! -Yes!.
+
+225
+00:21:18,240 --> 00:21:20,880
+It was a "game over scenario".
+
+226
+00:21:21,040 --> 00:21:25,360
+That was their domain administrator account.
+
+227
+00:21:25,520 --> 00:21:29,480
+So this user was the key to the kingdom.
+
+228
+00:21:29,640 --> 00:21:34,720
+- The housing queue is ours. -I'm in the queue, can we promote ...
+
+229
+00:21:34,880 --> 00:21:38,920
+-Yes of course. -I have already registered.
+
+230
+00:21:39,080 --> 00:21:42,960
+18.40, then it's "game over time".
+
+231
+00:21:43,120 --> 00:21:48,320
+Here's a list of all accounts in the entire organization - 850.
+
+232
+00:21:48,480 --> 00:21:53,200
+And here we have hashed secret, encrypted passwords.
+
+233
+00:21:53,360 --> 00:21:58,160
+To get them in plain text, we need guess at immense speed.
+
+234
+00:21:58,320 --> 00:22:03,840
+I'm going to do that with a script. Now it will start working like crazy.
+
+235
+00:22:04,000 --> 00:22:08,240
+Then we will get a file called "cracked".
+
+236
+00:22:08,400 --> 00:22:15,160
+There we get a lot of passwords in clear text, which will grow over time.
+
+237
+00:22:15,320 --> 00:22:19,880
+Now it's been a few minutes. We have cracked 78 passwords.
+
+238
+00:22:20,040 --> 00:22:22,960
+"Gris1234" (Pig1234).
+
+239
+00:22:23,120 --> 00:22:26,120
+"Vinter21" (Winter21).
+
+240
+00:22:26,280 --> 00:22:31,800
+Shall we run a bett on how many contains summer and year?
+
+241
+00:22:31,960 --> 00:22:39,000
+The most common passwords contain "summer" or "winter" and year.
+
+242
+00:22:39,160 --> 00:22:44,400
+These are all intercoms and all codes for all properties.
+
+243
+00:22:44,560 --> 00:22:47,600
+- Inside this system? -Yes.
+
+244
+00:22:47,760 --> 00:22:51,640
+So what code do you want, to which house?
+
+245
+00:22:57,320 --> 00:23:01,680
+If you want, then you enter Helsingborgshem.
+
+246
+00:23:01,840 --> 00:23:05,040
+I'm almost sure that they have gotten in.
+
+247
+00:23:05,200 --> 00:23:09,880
+As an IT-manager, I have to make it as hard as possible-
+
+248
+00:23:10,040 --> 00:23:14,360
+-So that the attacker might choose another target.
+
+249
+00:23:15,760 --> 00:23:22,080
+After a bit of sleep and a lot of adrenaline we would present our findings.
+
+250
+00:23:22,240 --> 00:23:25,640
+- Can we come in? –Absolutely.
+
+251
+00:23:25,800 --> 00:23:28,840
+We had bought flowers to the receptionist–
+
+252
+00:23:29,000 --> 00:23:33,600
+-Who did a good job, because we were thrown out.
+
+253
+00:23:33,760 --> 00:23:37,280
+I am interested, regardless of the result.
+
+254
+00:23:37,440 --> 00:23:42,760
+It can give me an answer that means that I can put a new strategy -
+
+255
+00:23:42,920 --> 00:23:47,080
+- regardless of whether you succeed or fail.
+
+256
+00:23:47,240 --> 00:23:50,200
+So we got to enter this fort-
+
+257
+00:23:50,360 --> 00:23:54,760
+- which we did not manage to break into, at least not physically.
+
+258
+00:23:54,920 --> 00:24:00,480
+We had an envelope to show poor Richard.
+
+259
+00:24:00,640 --> 00:24:03,160
+Exciting.
+
+260
+00:24:04,480 --> 00:24:10,200
+An envelope with a password that we cracked. 120, I think it was.
+
+261
+00:24:11,040 --> 00:24:15,800
+The last page is perhaps the most interesting.
+
+262
+00:24:15,960 --> 00:24:18,200
+Really interesting.
+
+263
+00:24:18,360 --> 00:24:24,880
+On the last page, were the admin accounts. Six passwords that we cracked.
+
+264
+00:24:25,040 --> 00:24:29,000
+He got to see a lot of passwords in plain text.
+
+265
+00:24:29,160 --> 00:24:32,480
+It may be surprising how bad some are.
+
+266
+00:24:32,640 --> 00:24:38,480
+Passwords are easy to crack. It doesn't matter where you work.
+
+267
+00:24:38,640 --> 00:24:42,960
+People should remember their password.
+
+268
+00:24:43,120 --> 00:24:46,440
+You try to find a password that works.
+
+269
+00:24:46,600 --> 00:24:52,640
+He gets a few pages with usernames and passwords you don't want.
+
+270
+00:24:52,800 --> 00:24:57,000
+The password quality maybe wasn't fantastic.
+
+271
+00:24:57,160 --> 00:25:01,960
+The first thing that many think of When discuss IT is technology.
+
+272
+00:25:02,120 --> 00:25:07,880
+"We have to get this, and that, computers and technology. "
+
+273
+00:25:08,040 --> 00:25:13,040
+While in fact it's knowledge, consciousness–
+
+274
+00:25:13,200 --> 00:25:16,120
+Rules and guidelines, which are important.
+
+275
+00:25:16,280 --> 00:25:21,400
+It's 80 percent consciousness, knowledge, guidelines and routines -
+
+276
+00:25:21,560 --> 00:25:23,840
+And 20 percent technology.
+
+277
+00:25:24,000 --> 00:25:28,280
+We'll change password policy -
+
+278
+00:25:28,440 --> 00:25:33,560
+- where we won't change passwords so often, and require longer passwords.
+
+279
+00:25:33,720 --> 00:25:39,320
+Hopefully we can get people to use better passwords.
+
+280
+00:25:39,480 --> 00:25:43,600
+He was looking for his own name in the list of cracked passwords -
+
+281
+00:25:43,760 --> 00:25:47,280
+-But we haven't cracked it, so it's a compliment to him.
+
+282
+00:25:47,440 --> 00:25:52,920
+To find your own password there, would not have been great.
+
+283
+00:25:53,080 --> 00:25:55,320
+Then I'd have to rethink.
+
+284
+00:25:55,480 --> 00:26:02,240
+But it didn't end there. We showed him what one can accomplish.
+
+285
+00:26:02,400 --> 00:26:06,440
+If you look at this, do you recognize this?
+
+286
+00:26:06,600 --> 00:26:10,280
+I think it's one of our phase 2 servers.
+
+287
+00:26:10,440 --> 00:26:13,760
+-What is that? -Our real estate system.
+
+288
+00:26:13,920 --> 00:26:17,880
+It's our customer register and our housing queue.
+
+289
+00:26:18,040 --> 00:26:25,000
+- Do you think we got it? -Yes, because you have the interface up.
+
+290
+00:26:25,160 --> 00:26:28,240
+It was like a small joke.
+
+291
+00:26:28,400 --> 00:26:33,800
+As we established access, Linus was already a customer.
+
+292
+00:26:33,960 --> 00:26:37,360
+But he did not have many points in the housing queue.
+
+293
+00:26:37,520 --> 00:26:41,760
+Now we could actually give Linus 1337 points–
+
+294
+00:26:41,920 --> 00:26:45,080
+-But we held back.
+
+295
+00:26:45,240 --> 00:26:48,960
+So now we have reached our goals.
+
+296
+00:26:49,120 --> 00:26:54,560
+Their mission was to enter the network.
+
+297
+00:26:54,720 --> 00:26:59,600
+And then access the customer register and manipulate the housing queue.
+
+298
+00:26:59,760 --> 00:27:03,800
+The hackers never succeeded physically to enter the head office -
+
+299
+00:27:03,960 --> 00:27:07,440
+-But via an old office they got the access.
+
+300
+00:27:07,600 --> 00:27:13,440
+The hackers needed less than four hours to take over the network.
+
+301
+00:27:13,600 --> 00:27:18,240
+They managed to get the customer register and manipulate the housing queue.
+
+302
+00:27:18,400 --> 00:27:22,480
+The way your hackers entered the housing company–
+
+303
+00:27:22,640 --> 00:27:27,280
+-Will work in over 90 percent of cases.
+
+304
+00:27:27,440 --> 00:27:33,280
+There is no company in the world which one can not get into.
+
+305
+00:27:33,440 --> 00:27:38,520
+If these really skilled people want to get in, they will.
+
+306
+00:27:38,680 --> 00:27:44,960
+They have done this in less than 48 hours, and even less than that.
+
+307
+00:27:45,120 --> 00:27:51,520
+of course you are impressed of how quietly they have done this.
+
+308
+00:27:51,680 --> 00:27:58,120
+We had all the power to do what we wanted. That's pretty serious.
+
+309
+00:28:01,640 --> 00:28:07,120
+The Coop food chain had to close almost all its 800 stores in the country.
+
+310
+00:28:07,280 --> 00:28:12,160
+- Crime has moved online. - It's up. Yes, we have contact!
+
+311
+00:28:13,440 --> 00:28:15,120
+Yes!
+
+312
+00:28:15,280 --> 00:28:18,920
+We're going to stop somewhere. It feels as if I have done something bad.
+
+313
+00:28:19,080 --> 00:28:21,680
+This is extremely serious.
+
+314
+00:28:21,840 --> 00:28:24,840
+Subtitles: Anders Kaage Swedish Media Text for SVT
+

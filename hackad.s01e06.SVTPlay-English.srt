@@ -1,0 +1,1280 @@
+1
+00:00:05,440 --> 00:00:07,680
+Hey. Marcus.
+
+2
+00:00:07,840 --> 00:00:13,880
+You have to register with both name and ID.
+
+3
+00:00:18,400 --> 00:00:22,000
+You're not allowed to film anymore.
+
+4
+00:00:25,320 --> 00:00:31,240
+For my part, it would be okay, but it must be approved by my boss.
+
+5
+00:00:32,680 --> 00:00:36,880
+We have reached the end of our experiment where four hackers–
+
+6
+00:00:37,040 --> 00:00:43,400
+- attacks people and companies to show how vulnerable we are.
+
+7
+00:00:43,560 --> 00:00:49,040
+We know that foreign powers have stolen information from Swedish authorities.
+
+8
+00:00:49,200 --> 00:00:55,720
+In this episode the security will be tested at Telenor.
+
+9
+00:00:55,880 --> 00:01:00,520
+It's a critical infrastructure that foreign power wants control over.
+
+10
+00:01:00,680 --> 00:01:03,760
+There's a large flow of information.
+
+11
+00:01:03,920 --> 00:01:08,760
+It will be the largest company we attack. A huge challenge.
+
+12
+00:01:08,920 --> 00:01:13,080
+Can the hackers navigate past advanced security systems -
+
+13
+00:01:13,240 --> 00:01:18,240
+- and a large team that only exist to catch them?
+
+14
+00:01:30,040 --> 00:01:33,720
+This is one of our crisis rooms.
+
+15
+00:01:35,240 --> 00:01:38,480
+This is where we will have the exercise.
+
+16
+00:01:38,640 --> 00:01:43,720
+-What computers will we get? -These are our client computers.
+
+17
+00:01:43,880 --> 00:01:48,120
+The hackers will act as agents from foreign power.
+
+18
+00:01:48,280 --> 00:01:51,440
+Telenor has advanced monitoring -
+
+19
+00:01:51,600 --> 00:01:57,200
+-And conduct regular simulated attacks to find weaknesses.
+
+20
+00:01:57,360 --> 00:02:00,600
+The hackers have received an office computer -
+
+21
+00:02:00,760 --> 00:02:04,760
+- which corresponds to the ones used by company employees.
+
+22
+00:02:04,920 --> 00:02:09,760
+They need to navigate as quietly as possible through the huge network -
+
+23
+00:02:09,920 --> 00:02:15,840
+-To find a path to servers with sensitive information.
+
+24
+00:02:16,000 --> 00:02:20,720
+A major challenge with the assignment is that the company’s own security team
+
+25
+00:02:20,880 --> 00:02:26,280
+-Which is called Blue team, constantly scans the network for attackers.
+
+26
+00:02:26,440 --> 00:02:30,000
+That is what we have against us during these hours.
+
+27
+00:02:30,160 --> 00:02:34,720
+The idea is that security should be as normal as possible.
+
+28
+00:02:34,880 --> 00:02:40,120
+My primary responsibility is to ensure that the technology works.
+
+29
+00:02:40,280 --> 00:02:45,160
+Also make sure that they don't break anything.
+
+30
+00:02:45,320 --> 00:02:48,480
+Whatever we poke at there are sensors there?
+
+31
+00:02:48,640 --> 00:02:50,760
+Yes.
+
+32
+00:02:50,920 --> 00:02:53,640
+It's not easy.
+
+33
+00:02:53,800 --> 00:02:57,160
+It will be a challenge.
+
+34
+00:02:57,320 --> 00:03:00,320
+It will be difficult, I think so.
+
+35
+00:03:00,480 --> 00:03:04,040
+We have many limitations and little time.
+
+36
+00:03:04,200 --> 00:03:09,640
+We have two days, maybe 30 hours if we don't sleep.
+
+37
+00:03:09,800 --> 00:03:13,800
+Very bad conditions for us to succeed.
+
+38
+00:03:13,960 --> 00:03:17,120
+There has been a lot of preparation, many meetings–
+
+39
+00:03:17,280 --> 00:03:22,840
+-Where we've discussed both the exercise and all legislation.
+
+40
+00:03:23,000 --> 00:03:27,480
+We have signed agreements, at least two.
+
+41
+00:03:27,640 --> 00:03:30,960
+There are so many rules.
+
+42
+00:03:31,120 --> 00:03:36,520
+If they don't follow them, we'll kick them out.
+
+43
+00:03:36,680 --> 00:03:40,880
+All offensive decisions we must take together.
+
+44
+00:03:41,040 --> 00:03:44,360
+They have to go through the exercise leaders.
+
+45
+00:03:44,520 --> 00:03:49,720
+To sit there on a system that is incredibly large–
+
+46
+00:03:49,880 --> 00:03:54,640
+- with many limitations, computers that are not even your own
+
+47
+00:03:54,800 --> 00:03:59,200
+- and a process that makes you have to get everything approved by a dungeon master ...
+
+48
+00:03:59,360 --> 00:04:02,360
+Do you feel ready, and have everything you need?
+
+49
+00:04:02,520 --> 00:04:06,480
+-I think so. -Perfect, then we'll start the exercise.
+
+50
+00:04:10,040 --> 00:04:13,520
+Let's take these off.
+
+51
+00:04:13,680 --> 00:04:20,600
+So should I look at storage space on the network?
+
+52
+00:04:20,760 --> 00:04:23,520
+Including databases.
+
+53
+00:04:23,680 --> 00:04:29,760
+- You'll go for accounts. -Everything with AD, at a slow pace.
+
+54
+00:04:29,920 --> 00:04:34,600
+–Webb. -Everything like that.
+
+55
+00:04:34,760 --> 00:04:38,080
+To avoid making noise -
+
+56
+00:04:38,240 --> 00:04:41,280
+it'll be good if we can look for things which can give us more.
+
+57
+00:04:41,440 --> 00:04:46,520
+Now we need to figure out how the network looks like-
+
+58
+00:04:46,680 --> 00:04:50,480
+- without showing the Blue team that we're here–
+
+59
+00:04:50,640 --> 00:04:56,040
+And find the networks that aren't forbidden, and attack them.
+
+60
+00:04:57,160 --> 00:05:03,040
+Tele companies are equally important as bridges, roads, harbors.
+
+61
+00:05:03,200 --> 00:05:07,160
+An attack on a large tele company can seriously disrupt–
+
+62
+00:05:07,320 --> 00:05:10,400
+society's ability to function.
+
+63
+00:05:10,560 --> 00:05:16,560
+Customer information, calls ... Everything - text messages and stuff.
+
+64
+00:05:17,240 --> 00:05:20,360
+All that information is very sensitive -
+
+65
+00:05:20,520 --> 00:05:24,600
+-And is fantastic for us as a foreign power to access.
+
+66
+00:05:24,760 --> 00:05:32,480
+Just that people use SMS to log in to accounts ...
+
+67
+00:05:32,640 --> 00:05:38,480
+If we can then take over arbitrary phone numbers, we can access
+
+68
+00:05:38,640 --> 00:05:42,000
+-Many people's accounts.
+
+69
+00:05:42,840 --> 00:05:48,920
+We've got these hackers here, who are among the better in Sweden.
+
+70
+00:05:49,080 --> 00:05:53,080
+How do they think? What tactics and what tools do they use?
+
+71
+00:05:53,240 --> 00:05:56,680
+And how do they do it? It's most interesting.
+
+72
+00:05:56,840 --> 00:06:01,920
+They don't know that our plan is to suck out their knowledge.
+
+73
+00:06:02,080 --> 00:06:06,160
+Ulf Andersson works as information security manager–
+
+74
+00:06:06,320 --> 00:06:10,640
+-But has its background in the intelligence service and Säpo.
+
+75
+00:06:10,800 --> 00:06:15,400
+He brings with him his experiences into the job of IT security.
+
+76
+00:06:15,560 --> 00:06:19,440
+In my team we have hackers–
+
+77
+00:06:19,600 --> 00:06:23,480
+-But if you add intelligence- background, to really understand
+
+78
+00:06:23,640 --> 00:06:29,560
+- what intelligence is all about, how you work to get information ...
+
+79
+00:06:29,720 --> 00:06:36,520
+To translate it into this field, I think gives a great advantage.
+
+80
+00:06:36,680 --> 00:06:40,080
+Because everything is about obtaining information.
+
+81
+00:06:40,240 --> 00:06:46,600
+The one who has most information will win, history has proven.
+
+82
+00:06:54,160 --> 00:06:58,600
+Stig Wennerström, one of Sweden's most famous spies–
+
+83
+00:06:58,760 --> 00:07:05,280
+- is arrested and brought to justice in 1963, after 20 years of reconnaissance work.
+
+84
+00:07:05,440 --> 00:07:10,280
+In his home there's photographic equipment and microfilms with documents
+
+85
+00:07:10,440 --> 00:07:15,800
+- which Wennerström photographed and sent to the Soviet Union.
+
+86
+00:07:22,400 --> 00:07:26,040
+But today the spies are sitting in front of the computer.
+
+87
+00:07:26,200 --> 00:07:30,200
+The cyber attacks from foreign powers are so frequent and intense–
+
+88
+00:07:30,360 --> 00:07:35,240
+- that they are on the border between espionage and low-intensity warfare.
+
+89
+00:07:35,400 --> 00:07:41,160
+The US president warned this spring for the consequences of the development.
+
+90
+00:07:55,200 --> 00:07:59,040
+The threat to Sweden in the form of cyber attacks from foreign powers
+
+91
+00:07:59,200 --> 00:08:02,200
+- are real.
+
+92
+00:08:02,360 --> 00:08:06,400
+We see how the threats have expanded and deepened over a number of years.
+
+93
+00:08:06,560 --> 00:08:13,000
+The consequences are serious. It's for real - they're real people.
+
+94
+00:08:13,160 --> 00:08:17,600
+It takes place daily against Sweden from a variety of countries.
+
+95
+00:08:17,760 --> 00:08:23,400
+We see how foreign power comes in and steals research, development -
+
+96
+00:08:23,560 --> 00:08:27,760
+-blueprints - entire production environments, to bring home to their countries.
+
+97
+00:08:27,920 --> 00:08:36,000
+The countries that pose the greatest threat are Russia, China and Iran.
+
+98
+00:08:36,560 --> 00:08:43,000
+Today it's an uneven match. Those who attack us have a head start.
+
+99
+00:08:43,160 --> 00:08:48,360
+Not much resources are invested in security, which would be needed
+
+100
+00:08:48,520 --> 00:08:52,960
+- considering the threat. There are great values at stake.
+
+101
+00:08:53,120 --> 00:08:58,640
+It's not just computer stuff, the consequences can be serious.
+
+102
+00:08:58,800 --> 00:09:04,400
+They can affect the financial foundations of Sweden's democracy.
+
+103
+00:09:12,480 --> 00:09:16,840
+-How's it going? - The technology is up and running.
+
+104
+00:09:17,000 --> 00:09:21,880
+So they will probably have a lot to do. Absolutely.
+
+105
+00:09:22,040 --> 00:09:26,600
+I talked to the Blue team, they got the starting signal at the same time.
+
+106
+00:09:26,760 --> 00:09:28,840
+Okay.
+
+107
+00:09:29,000 --> 00:09:32,040
+Then they'll soon be discovered.
+
+108
+00:09:32,200 --> 00:09:37,040
+Yes. We'll see, it hasn't been that long.
+
+109
+00:09:37,200 --> 00:09:39,200
+10 62.
+
+110
+00:09:39,360 --> 00:09:43,280
+Is it also forbidden? Everything is forbidden.
+
+111
+00:09:43,440 --> 00:09:46,720
+We had a list of systems which we weren't allowed to touch.
+
+112
+00:09:46,880 --> 00:09:49,600
+On that list, they added more and more.
+
+113
+00:09:49,760 --> 00:09:55,680
+The more we found, the more they realized: "No, by the way, don't touch it."
+
+114
+00:09:55,840 --> 00:09:58,840
+We suggested several attacks.
+
+115
+00:09:59,000 --> 00:10:03,920
+Each attack must be approved, so we had to wait a lot.
+
+116
+00:10:04,640 --> 00:10:08,240
+It's so frustrating!
+
+117
+00:10:09,360 --> 00:10:12,120
+Our core network has all the info.
+
+118
+00:10:12,280 --> 00:10:18,200
+This is where our secret databases are located, with all customer data.
+
+119
+00:10:18,360 --> 00:10:22,680
+That's where you want to go when talking telecommunications.
+
+120
+00:10:22,840 --> 00:10:27,520
+They were not allowed to go there. We had  limits on what they were allowed to do.
+
+121
+00:10:27,680 --> 00:10:31,600
+We knew that if they go there-
+
+122
+00:10:31,760 --> 00:10:37,800
+- functions could break down, and we would have a lot of problems.
+
+123
+00:10:37,960 --> 00:10:44,000
+It became messy. Everyone tried to be creative and come up with good ideas.
+
+124
+00:10:44,160 --> 00:10:48,160
+This is half joke, half serious. Let's buy a botnet.
+
+125
+00:10:48,320 --> 00:10:54,320
+Nuke some service from the outside... No, but listen. Hear me out!
+
+126
+00:10:54,480 --> 00:10:57,080
+Basically three kids in a candy store.
+
+127
+00:10:57,240 --> 00:11:02,160
+Normally when we do this, it's "free for all", just to pick and attack.
+
+128
+00:11:02,320 --> 00:11:05,960
+You lost me when you said: "Buy a botnet."
+
+129
+00:11:06,120 --> 00:11:09,680
+In the end, we ignored the alarms and just rolled with it.
+
+130
+00:11:09,840 --> 00:11:14,600
+"We're getting nowhere," because everything was forbidden. We did everything we could.
+
+131
+00:11:14,760 --> 00:11:19,760
+To navigate the huge network they need to do a scan -
+
+132
+00:11:19,920 --> 00:11:22,640
+-On over 4,000 IP addresses.
+
+133
+00:11:22,800 --> 00:11:27,880
+The problem is that it generates a lot of traffic. They risk detection.
+
+134
+00:11:28,040 --> 00:11:32,600
+We'll ignore the Blue team. We're hoping they look at China.
+
+135
+00:11:32,760 --> 00:11:38,200
+If they don't detect us now, they're real losers. We'll assume they will.
+
+136
+00:11:38,360 --> 00:11:41,720
+Three ... two ... one ...
+
+137
+00:11:45,280 --> 00:11:49,880
+Blue team - now they'll stop drinking coffee.
+
+138
+00:11:50,040 --> 00:11:55,120
+There was a lot of traffic which was pushed through. Very obvious.
+
+139
+00:11:55,280 --> 00:12:00,040
+All their logs lit up like a Christmas tree, probably.
+
+140
+00:12:29,320 --> 00:12:32,880
+-Hello. -Hey.
+
+141
+00:12:37,040 --> 00:12:41,600
+-How's it going? -To hell.
+
+142
+00:12:43,000 --> 00:12:49,720
+A cat and rat game. You should never accept that a foreign power is inside.
+
+143
+00:12:49,880 --> 00:12:54,480
+No other technical problems which we need to sort out?
+
+144
+00:12:54,640 --> 00:12:56,720
+No.
+
+145
+00:12:56,880 --> 00:13:00,920
+I have contact with the Blue team internally.
+
+146
+00:13:01,080 --> 00:13:06,520
+They get no info what is happening on the other side. I'll look up what they find.
+
+147
+00:13:06,680 --> 00:13:09,920
+Yes.... Yes?
+
+148
+00:13:10,080 --> 00:13:15,240
+I checked with the Blue team. It was actually very comical ...
+
+149
+00:13:15,400 --> 00:13:19,640
+They said it sounded like a tank drove around the infrastructure.
+
+150
+00:13:19,800 --> 00:13:21,840
+They are THAT noisy?
+
+151
+00:13:22,000 --> 00:13:26,280
+In a realistic scenario, we would have stopped them immediately.
+
+152
+00:13:26,440 --> 00:13:29,440
+After a few minutes or so.
+
+153
+00:13:29,600 --> 00:13:34,640
+But then there wont be an exercise. What do you learn from stopping it?
+
+154
+00:13:34,800 --> 00:13:39,400
+It's better to open the door and see what they'll do.
+
+155
+00:13:39,560 --> 00:13:42,800
+Give me five minutes.
+
+156
+00:13:42,960 --> 00:13:49,440
+-Should I run a hydra from our C2? -Yes. Take one at a time.
+
+157
+00:13:50,080 --> 00:13:52,240
+Check.
+
+158
+00:13:52,400 --> 00:13:56,400
+We asked Marcus: "May we look at other parts of the network? "
+
+159
+00:13:56,560 --> 00:13:59,720
+We got to look at some other systems.
+
+160
+00:13:59,880 --> 00:14:05,400
+On them, Jinny found an encrypted password.
+
+161
+00:14:05,560 --> 00:14:08,760
+Actually, we found 26 encrypted passwords.
+
+162
+00:14:08,920 --> 00:14:14,200
+But one of them we managed to crack with a simple dictionary.
+
+163
+00:14:14,360 --> 00:14:17,560
+We have found a machine which we can access.
+
+164
+00:14:17,720 --> 00:14:20,800
+It had a folder that we can read.
+
+165
+00:14:20,960 --> 00:14:27,440
+Tt looks like there are folders which appears to belong to users.
+
+166
+00:14:27,600 --> 00:14:35,240
+Maybe all users, even. We can read them and watch the content.
+
+167
+00:14:35,400 --> 00:14:39,880
+If an administrator has saved their password in their profile.
+
+168
+00:14:40,040 --> 00:14:45,480
+Then we have it and maybe can jump to other machines.
+
+169
+00:14:45,640 --> 00:14:50,760
+Take over machines, quite simply. Jump on to the more sensitive resources.
+
+170
+00:14:50,920 --> 00:14:57,120
+What Linus is doing now is to copy over all content–
+
+171
+00:14:57,280 --> 00:15:01,880
+-To a USB stick, so that we get access to all that information.
+
+172
+00:15:02,040 --> 00:15:05,040
+Even if the Blue team sees this ...
+
+173
+00:15:05,200 --> 00:15:09,280
+We don't care. We just want to get the info as fast as possible.
+
+174
+00:15:09,440 --> 00:15:13,960
+We'll barricade that door, so that they can't break in.
+
+175
+00:15:15,200 --> 00:15:20,400
+That's what we're doing right now. It's the first really interesting finding.
+
+176
+00:15:20,560 --> 00:15:24,280
+It could be a gold mine.
+
+177
+00:15:28,360 --> 00:15:32,360
+I think... There has been a shift.
+
+178
+00:15:32,520 --> 00:15:35,960
+Private companies, especially the telco companies -
+
+179
+00:15:36,120 --> 00:15:40,320
+-Have realized that they are socially critical infrastructure.
+
+180
+00:15:40,480 --> 00:15:46,200
+They are the key for society to work. Everything is based on communication.
+
+181
+00:15:46,360 --> 00:15:50,760
+That awakening has probably happened since x number of years back.
+
+182
+00:15:50,920 --> 00:15:56,440
+If the communication stops working, society is likely to collapse.
+
+183
+00:15:56,600 --> 00:16:01,960
+Then we can't communicate. We are so used to the phone constantly working.
+
+184
+00:16:02,120 --> 00:16:07,760
+That's the big awakening among telecom companies.
+
+185
+00:16:07,920 --> 00:16:13,040
+To realize that we are so important to society.
+
+186
+00:16:26,240 --> 00:16:31,480
+Many cyber attacks have been linked to foreign power.
+
+187
+00:16:31,640 --> 00:16:35,360
+This applies to attacks on waterworks, food manufacturers -
+
+188
+00:16:35,520 --> 00:16:38,600
+-Fuel companies and authorities.
+
+189
+00:16:38,760 --> 00:16:42,760
+The US administration accuses Russia
+
+190
+00:16:42,920 --> 00:16:47,920
+-To allow hacker groups to act freely, without intervening.
+
+191
+00:16:48,080 --> 00:16:53,880
+Biden has proposed an agreement which protects critical infrastructure.
+
+192
+00:17:11,240 --> 00:17:17,480
+We are used to battles between countries being conducted militarily.
+
+193
+00:17:17,640 --> 00:17:21,440
+But thanks to technological development and development of cyber tools -
+
+194
+00:17:21,600 --> 00:17:26,320
+- much of the struggle has been moved to the cyber domains or the cyber world.
+
+195
+00:17:26,480 --> 00:17:30,520
+That's where it takes place a struggle between countries.
+
+196
+00:17:30,680 --> 00:17:33,280
+It's not as visible.
+
+197
+00:17:33,440 --> 00:17:38,400
+You may not always know who fires the digital shots.
+
+198
+00:17:38,560 --> 00:17:46,280
+Which makes the security environment has become more difficult to understand.
+
+199
+00:17:47,560 --> 00:17:50,200
+You have to take security seriously.
+
+200
+00:17:50,360 --> 00:17:56,440
+One must take the ability of a foreign power to conduct such business seriously.
+
+201
+00:17:56,600 --> 00:18:00,720
+These are people in other countries who have a salary–
+
+202
+00:18:00,880 --> 00:18:05,520
+-To conduct that type of activities - government officials.
+
+203
+00:18:06,280 --> 00:18:12,400
+There are companies that have been unaware that they have had an IT intrusion.
+
+204
+00:18:12,560 --> 00:18:15,880
+They have become aware of it only when we contacted them–
+
+205
+00:18:16,040 --> 00:18:20,160
+-Or when they see a copy of their product in another country.
+
+206
+00:18:20,320 --> 00:18:26,840
+That's because those countries have big resources and are technically proficient.
+
+207
+00:18:27,000 --> 00:18:32,760
+If they meet a Swedish company who do not have a high level of protection
+
+208
+00:18:32,920 --> 00:18:36,400
+- it will be an easy prey.
+
+209
+00:18:36,560 --> 00:18:39,880
+IT security will become even more important.
+
+210
+00:18:40,040 --> 00:18:42,560
+In the future, we will be more connected.
+
+211
+00:18:42,720 --> 00:18:49,520
+Launch of 5G, which is coming, means that we become even more connected.
+
+212
+00:18:49,680 --> 00:18:52,480
+The cars will be connected.
+
+213
+00:18:52,640 --> 00:18:57,240
+Everything from refrigerators to whatever you can imagine, will be connected.
+
+214
+00:18:57,400 --> 00:19:03,000
+There will always be vulnerabilities, so people need to be more prepared–
+
+215
+00:19:03,160 --> 00:19:06,720
+-And test themselves.
+
+216
+00:19:06,880 --> 00:19:13,000
+It is about who finds the vulnerabilities first, we or the opponent?
+
+217
+00:19:13,160 --> 00:19:17,320
+Then it's better to try to find the vulnerabilities yourself.
+
+218
+00:19:17,480 --> 00:19:21,040
+Get help from anyone who can help.
+
+219
+00:19:21,200 --> 00:19:25,200
+Continue to find your own vulnerabilities.
+
+220
+00:19:26,600 --> 00:19:31,760
+I have found a lot of systems that are super interesting - old stuff.
+
+221
+00:19:31,920 --> 00:19:35,520
+We can always get in there.
+
+222
+00:19:37,480 --> 00:19:42,480
+Blue team seems to have seen that you made weird connections to the Internet.
+
+223
+00:19:42,640 --> 00:19:45,520
+That they want an explanation for.
+
+224
+00:19:45,680 --> 00:19:49,200
+- Against the internet? -Yes, some port 22.
+
+225
+00:19:49,360 --> 00:19:52,800
+It was against your address.
+
+226
+00:19:52,960 --> 00:19:57,440
+We're downloading a "wordlist" to crack hashes.
+
+227
+00:19:57,600 --> 00:19:59,680
+Yes.
+
+228
+00:19:59,840 --> 00:20:06,680
+- Did you talk to a colleague? - We haven't spoken to anyone on the phone.
+
+229
+00:20:06,840 --> 00:20:10,640
+-So you got no help? No.
+
+230
+00:20:10,800 --> 00:20:14,400
+We found quite a lot of interesting stuff.
+
+231
+00:20:14,560 --> 00:20:18,800
+27 minutes left, and we've cracked a hash.
+
+232
+00:20:18,960 --> 00:20:23,360
+We have a hash. We have that password.
+
+233
+00:20:23,520 --> 00:20:26,520
+That was interesting. Really good.
+
+234
+00:20:26,680 --> 00:20:32,200
+Yes, Jinny is testing if she can login with it.
+
+235
+00:20:35,960 --> 00:20:43,360
+I feel that Marcus became quite nervous when he saw the account.
+
+236
+00:20:43,520 --> 00:20:49,480
+We asked for a "ticket". Then we cracked it.
+
+237
+00:20:49,640 --> 00:20:52,680
+But how did you find the service?
+
+238
+00:20:52,840 --> 00:20:57,160
+- We asked ... -You ran that ... what's it called?
+
+239
+00:20:57,320 --> 00:21:01,000
+Get-SPN. We've found a lot of fun. stuff.
+
+240
+00:21:01,160 --> 00:21:04,120
+We are now decrypting this.
+
+241
+00:21:04,280 --> 00:21:09,080
+These are saved passwords in a Chrome session.
+
+242
+00:21:09,240 --> 00:21:14,360
+We've got a lot of Chrome files from these profiles.
+
+243
+00:21:14,520 --> 00:21:19,280
+In the vhd files, someone has saved passwords in the browser.
+
+244
+00:21:19,440 --> 00:21:23,720
+Username "Admin", to all of these addresses.
+
+245
+00:21:23,880 --> 00:21:28,200
+We don't have the password yet, but looking at it.
+
+246
+00:21:29,920 --> 00:21:32,640
+We've also gotten in here.
+
+247
+00:21:32,800 --> 00:21:38,400
+It's a Wiki ... Maybe shouldn't film it before he says okay.
+
+248
+00:21:38,560 --> 00:21:42,640
+I created an account. I was allowed to create an account -
+
+249
+00:21:42,800 --> 00:21:46,160
+-And I've read a lot of interesting stuff.
+
+250
+00:21:46,320 --> 00:21:50,000
+-It's interesting. -Yes it is.
+
+251
+00:21:50,160 --> 00:21:53,920
+The wiki server contained information -
+
+252
+00:21:54,080 --> 00:22:00,280
+-Which can be seen as a kind of map over parts of the network.
+
+253
+00:22:00,440 --> 00:22:03,760
+We haven't had time to analyze the material.
+
+254
+00:22:03,920 --> 00:22:07,440
+It seems to be username and passwords to other parts of the network -
+
+255
+00:22:07,600 --> 00:22:13,080
+- which isn't good at all. That is the risk we must address.
+
+256
+00:22:13,240 --> 00:22:16,360
+We found an account ... You seem to want to do something.
+
+257
+00:22:16,520 --> 00:22:22,040
+Now we have a hash we have to crack. If it works, we can decrypt them ...
+
+258
+00:22:22,200 --> 00:22:25,560
+- Where did you get that hash from? -Magic.
+
+259
+00:22:25,720 --> 00:22:31,440
+I searched for the password, and then I read. Do you have to kill me now?
+
+260
+00:22:31,600 --> 00:22:34,160
+Yes.
+
+261
+00:22:34,320 --> 00:22:37,480
+No, so ... Is the camera off?
+
+262
+00:22:48,080 --> 00:22:52,680
+-What has happened now? - They have discovered ...
+
+263
+00:22:52,840 --> 00:22:58,040
+... that they could retrieve passwords from internal services.
+
+264
+00:22:58,200 --> 00:23:01,240
+-Food! - Wonderful!
+
+265
+00:23:01,400 --> 00:23:06,920
+The next directive is that as soon as the Blue team thinks that this-
+
+266
+00:23:07,080 --> 00:23:12,680
+-Can risk our services, then we cancel.
+
+267
+00:23:12,840 --> 00:23:19,560
+We went from practice mode to incident mode where all teams are activated.
+
+268
+00:23:19,720 --> 00:23:23,880
+You may notify the hackers to stop.
+
+269
+00:23:25,760 --> 00:23:31,080
+Hi. Could you pause everything and come with me?
+
+270
+00:23:31,240 --> 00:23:35,200
+We'll have an incident meeting. It's important that we do it now.
+
+271
+00:23:35,360 --> 00:23:39,520
+-Come, we need to fix this. -You look so serious.
+
+272
+00:23:39,680 --> 00:23:43,680
+Can we turn off the camera and tell us what we aren't allowed to do?
+
+273
+00:23:43,840 --> 00:23:46,600
+It is "no go zone".
+
+274
+00:23:49,720 --> 00:23:52,360
+Shall we gather?
+
+275
+00:23:56,040 --> 00:23:59,480
+Good. - Thank you, Marcus.
+
+276
+00:23:59,640 --> 00:24:06,000
+We had to take a short break and stop the exercise a bit.
+
+277
+00:24:06,160 --> 00:24:09,640
+You were supposed to find things.
+
+278
+00:24:09,800 --> 00:24:14,320
+That's why we joined this game. And now you have done it.
+
+279
+00:24:14,480 --> 00:24:20,360
+It's really fantastic. But what you have found, must be fixed.
+
+280
+00:24:20,520 --> 00:24:24,680
+And it's pretty urgent. We have started the incident process.
+
+281
+00:24:24,840 --> 00:24:30,800
+Because what you found ... I can't say where you would have ended up–
+
+282
+00:24:30,960 --> 00:24:35,360
+-But we value it as a major vulnerability.
+
+283
+00:24:35,520 --> 00:24:39,600
+So I find it difficult to continue the exercise.
+
+284
+00:24:39,760 --> 00:24:45,600
+But at the same time I'm incredibly grateful –
+
+285
+00:24:45,760 --> 00:24:49,280
+- that you have found it.
+
+286
+00:24:49,440 --> 00:24:54,640
+Somehow I'm glad that we could do this together.
+
+287
+00:24:54,800 --> 00:24:58,760
+I'm trying to convey a joy here.
+
+288
+00:24:58,920 --> 00:25:03,040
+But also a concern, because we have to fix it.
+
+289
+00:25:03,200 --> 00:25:10,240
+If a real opponent found it, it would have major consequences.
+
+290
+00:25:10,400 --> 00:25:15,760
+Shall we continue the exercise or fix the vulnerability?
+
+291
+00:25:15,920 --> 00:25:21,600
+The choice was pretty easy for me. I quickly realized:
+
+292
+00:25:21,760 --> 00:25:27,720
+"Now it's serious, now we can't discuss viewer numbers. "
+
+293
+00:25:27,880 --> 00:25:33,320
+Thanks! Totally fantastic that you found the vulnerability.
+
+294
+00:25:33,480 --> 00:25:37,960
+A bit frustrating. I guess this is how to end an exercise-
+
+295
+00:25:38,120 --> 00:25:45,280
+-When you find something really juicy, which makes us even better.
+
+296
+00:25:45,440 --> 00:25:47,960
+So super-thank you.
+
+297
+00:25:48,120 --> 00:25:54,280
+The hackers were discovered early and did not reach the sensitive servers.
+
+298
+00:25:54,440 --> 00:25:58,840
+However, they found vulnerabilities that got Telenor to cancel the exercise -
+
+299
+00:25:59,000 --> 00:26:01,800
+-To initiate incident management.
+
+300
+00:26:01,960 --> 00:26:07,920
+It turned out that the information didn't lead to critical data.
+
+301
+00:26:08,080 --> 00:26:13,880
+The risk is still greater if you don't do this.
+
+302
+00:26:14,040 --> 00:26:20,280
+"If we don't do this, we'll still get greater risks, because then we know nothing. "
+
+303
+00:26:20,440 --> 00:26:24,000
+Knowing nothing is the biggest risk.
+
+304
+00:26:28,920 --> 00:26:32,000
+We live in a digital society–
+
+305
+00:26:32,160 --> 00:26:36,640
+- where our assets online are as real as the physical ones.
+
+306
+00:26:36,800 --> 00:26:43,360
+The hackers have shown how easy it is to gain access to individuals and companies.
+
+307
+00:26:43,520 --> 00:26:47,520
+It's time to take your digital life seriously.
+
+308
+00:26:47,680 --> 00:26:54,440
+I think we will be able to handle information like we've always done.
+
+309
+00:26:54,600 --> 00:26:59,080
+It takes time, and things will happen.
+
+310
+00:26:59,240 --> 00:27:05,880
+But they had the same discussion about the telegraph - it was dangerous.
+
+311
+00:27:06,040 --> 00:27:11,040
+The radio was dangerous. We're not even going to talk about TV.
+
+312
+00:27:11,200 --> 00:27:13,880
+I see a bright future.
+
+313
+00:27:14,040 --> 00:27:19,720
+In 20-30 years, I think we'll have adapted to digitalisation.
+
+314
+00:27:19,880 --> 00:27:24,360
+To be afraid of such activities is not something you gain on.
+
+315
+00:27:24,520 --> 00:27:27,800
+We advocate sound vigilance.
+
+316
+00:27:27,960 --> 00:27:32,280
+To have the radar up and keep track of your surroundings.
+
+317
+00:27:37,400 --> 00:27:41,600
+This competence must be taught as early as possible - in preschool -
+
+318
+00:27:41,760 --> 00:27:46,600
+-In primary school, in high school and also in higher education.
+
+319
+00:27:46,760 --> 00:27:50,520
+Because this is important to learn.
+
+320
+00:27:58,960 --> 00:28:01,960
+Subtitles: Johan Johansson Swedish Media Text for SVT
+

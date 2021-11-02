@@ -1,0 +1,1364 @@
+1
+00:00:00,080 --> 00:00:03,440
+The time now is 09.08. - Anders!
+
+2
+00:00:03,600 --> 00:00:07,760
+The time now is 09.08, I'm now putting on the first product.
+
+3
+00:00:07,920 --> 00:00:13,640
+Linus found her downtown and pretended to be a fan of some sort–
+
+4
+00:00:13,800 --> 00:00:15,880
+- and wanted a selfie.
+
+5
+00:00:16,040 --> 00:00:20,240
+Excuse me. Therese Lindgren? My daughter watches you on Youtube.
+
+6
+00:00:20,400 --> 00:00:23,920
+- Can I take a selfie? -Of course.
+
+7
+00:00:24,080 --> 00:00:29,920
+People tend to lower their guard a bit when it comes to children.
+
+8
+00:00:30,080 --> 00:00:35,440
+It's a nasty tactic, but that's how it is online. There are no rules there.
+
+9
+00:00:35,600 --> 00:00:38,720
+What does the CEO say about how to protect yourself online?
+
+10
+00:00:38,880 --> 00:00:42,880
+You have a password and double password.
+
+11
+00:00:43,040 --> 00:00:47,360
+-He should have had triple passwords! -Hope he has.
+
+12
+00:00:47,520 --> 00:00:51,160
+And do you know what their password was?
+
+13
+00:00:51,320 --> 00:00:54,800
+I'm not joking. They had Password01.
+
+14
+00:00:54,960 --> 00:01:00,880
+I love "Svenska Nyheter", so it was fun to hit back.
+
+15
+00:01:01,040 --> 00:01:05,800
+SVT is letting professionals  hack individuals and companies -
+
+16
+00:01:05,960 --> 00:01:10,200
+-To show the vulnerabilities in our society.
+
+17
+00:01:10,360 --> 00:01:14,400
+David, Linus, Jesper and Jinny got 48 hours to hack–
+
+18
+00:01:14,560 --> 00:01:18,880
+- two public figures: The influencer Therese Lindgren–
+
+19
+00:01:19,160 --> 00:01:23,280
+And the host Kristoffer Appelquist.
+
+20
+00:01:23,440 --> 00:01:28,400
+To infiltrate and hijack their largest and most important online accounts.
+
+21
+00:01:34,040 --> 00:01:38,120
+Password01 ... I wonder if the experts believe–
+
+22
+00:01:38,280 --> 00:01:43,240
+- that there really is criminal superminds behind this.
+
+23
+00:01:43,400 --> 00:01:48,640
+But the government need help with keeping IT security at a reasonable level.
+
+24
+00:01:48,800 --> 00:01:52,800
+We've been looking at his online footprint.
+
+25
+00:01:52,960 --> 00:01:57,840
+We've looked in leaked databases and found some passwords.
+
+26
+00:01:58,000 --> 00:02:02,080
+Probably old passwords to old accounts that leaked.
+
+27
+00:02:02,240 --> 00:02:05,240
+We checked his sites online.
+
+28
+00:02:05,400 --> 00:02:09,600
+Often people are already hacked without knowing about it.
+
+29
+00:02:09,760 --> 00:02:14,240
+There are loads of information for sale on the Internet.
+
+30
+00:02:14,400 --> 00:02:19,800
+For instance, your address or password to your email is for sale.
+
+31
+00:02:19,960 --> 00:02:25,080
+They are incredibly cheap to buy, so you can buy millions of them.
+
+32
+00:02:25,240 --> 00:02:29,960
+Then if I choose you, I can try the password–
+
+33
+00:02:30,120 --> 00:02:34,520
+- since many people reuse the same password in several places.
+
+34
+00:02:34,680 --> 00:02:38,720
+It's mainly two passwords he's very in love with.
+
+35
+00:02:38,880 --> 00:02:42,280
+- He's not a mastermind of passwords? -No.
+
+36
+00:02:42,440 --> 00:02:47,320
+"Katamaran" has been used more than once. Then the best password–
+
+37
+00:02:47,480 --> 00:02:52,520
+-Which makes you like him: "hatasj". He's probably commuted a lot.
+
+38
+00:02:52,680 --> 00:02:57,800
+It's quite frustrating, because we have tested the passwords we found.
+
+39
+00:02:57,960 --> 00:03:05,120
+Nothing works. Linus and I have coded a cool thing.
+
+40
+00:03:05,280 --> 00:03:08,520
+But it requires access to the computer.
+
+41
+00:03:08,680 --> 00:03:14,120
+We must somehow deliver some form of code, a back door.
+
+42
+00:03:14,280 --> 00:03:18,800
+We need access to a device on his computer.
+
+43
+00:03:18,960 --> 00:03:22,080
+It should work. We wont fail.
+
+44
+00:03:22,240 --> 00:03:27,440
+Lots of people here now. We NEED to get access to his laptop.
+
+45
+00:03:27,600 --> 00:03:31,640
+We can't do it from the outside in the time we have.
+
+46
+00:03:31,800 --> 00:03:37,640
+-Yes ... It's cheating, but ... -Yeah, but you ask us to do magic.
+
+47
+00:03:37,800 --> 00:03:43,880
+We get so little time to do something that takes a hell of a long time.
+
+48
+00:03:44,040 --> 00:03:47,760
+When you're fishing for peoples password-
+
+49
+00:03:47,920 --> 00:03:54,000
+-you send 10 000 emails. Eventually someone takes the bait.
+
+50
+00:03:54,160 --> 00:03:58,440
+Here you ask us to go in and just ... / FINGER SNAP /
+
+51
+00:03:58,600 --> 00:04:02,800
+-It's not possible. -If we get him away from the computer ...
+
+52
+00:04:02,960 --> 00:04:07,840
+It's a classic thing that people do, they leave their computer unlocked.
+
+53
+00:04:08,000 --> 00:04:11,760
+Kristoffer has approved to be hacked.
+
+54
+00:04:11,920 --> 00:04:16,080
+The only thing he knows is that it will take place in the next few weeks–
+
+55
+00:04:16,240 --> 00:04:19,440
+- and that he will be interviewed by SVT.
+
+56
+00:04:19,600 --> 00:04:24,640
+I'll join you. I'll borrow a camera. I don't know how it works, but ...
+
+57
+00:04:24,800 --> 00:04:30,520
+I'm from Gothenburg, It'll be fine. The only cheat we're asking for ...
+
+58
+00:04:30,680 --> 00:04:34,760
+... is access to the computer for a minute.
+
+59
+00:04:35,920 --> 00:04:41,080
+You get to join us, and if you can do stuff with his computer you get to do it.
+
+60
+00:04:56,120 --> 00:05:01,040
+I'm reading comments. I'm looking for...
+
+61
+00:05:04,680 --> 00:05:09,440
+... language and words I can use in a phishing email.
+
+62
+00:05:09,600 --> 00:05:14,280
+Phishing is when you email and claim to be someone–
+
+63
+00:05:14,440 --> 00:05:21,160
+-And then tries to trick the recipient run a file or click on a link -
+
+64
+00:05:21,320 --> 00:05:26,680
+-Where they may need to log in with a password or similar.
+
+65
+00:05:27,600 --> 00:05:32,160
+Our new identity is Frida Kvarnesson.
+
+66
+00:05:32,320 --> 00:05:37,200
+I don't even know if it's a real name, now it is anyway.
+
+67
+00:05:40,880 --> 00:05:44,920
+We have all this material to create this character -
+
+68
+00:05:45,080 --> 00:05:49,520
+-and hopefully get Therese into a false sense of security -
+
+69
+00:05:49,680 --> 00:05:53,720
+- that it's a child and not someone who can hurt her.
+
+70
+00:05:53,880 --> 00:05:58,920
+We hope it increases the chance that she gives us her login information.
+
+71
+00:06:02,160 --> 00:06:07,920
+It's uncomfortable for me to log in with my index finger. Just a thing like that.
+
+72
+00:06:08,080 --> 00:06:12,600
+I started a makeup channel on Youtube, but only after a year–
+
+73
+00:06:12,760 --> 00:06:16,760
+- I started to mention that I was suffering from panic disorder.
+
+74
+00:06:16,920 --> 00:06:22,080
+Then I got a lot of questions about mental illness and personal issues.
+
+75
+00:06:22,240 --> 00:06:27,440
+I then changed my content a bit to what the people watching my videos–
+
+76
+00:06:27,600 --> 00:06:31,760
+- were interested in. It suited me much better too.
+
+77
+00:06:31,920 --> 00:06:35,960
+Today it's a lifestyle channel. I record my days.
+
+78
+00:06:36,120 --> 00:06:40,640
+Today there's one million followers both on Youtube and Instagram.
+
+79
+00:06:40,800 --> 00:06:46,320
+I'm really a control freak, so it feels uncomfortable that I'm ...
+
+80
+00:06:46,480 --> 00:06:50,600
+... not really in control over the technical.
+
+81
+00:06:50,760 --> 00:06:56,280
+Should my Youtube channel vanish because someone hacks it-
+
+82
+00:06:56,440 --> 00:07:01,520
+-Or whatever can happen online, then I don't know what I'll do.
+
+83
+00:07:01,680 --> 00:07:07,640
+I don't have a number for Youtube that can solve it. It's scary.
+
+84
+00:07:07,800 --> 00:07:13,560
+I'm very vulnerable. Every day I get SMS from Snapchat, Instagram ...
+
+85
+00:07:13,720 --> 00:07:18,840
+... and Facebook, which says: "This is the code to enter."
+
+86
+00:07:19,000 --> 00:07:24,640
+A two-step verification. So many people trying to get into my accounts.
+
+87
+00:07:24,800 --> 00:07:30,000
+But so far I have never been hacked.
+
+88
+00:07:31,120 --> 00:07:33,280
+"Hey, Tessan!"
+
+89
+00:07:33,440 --> 00:07:39,160
+"My dad met you downtown."
+
+90
+00:07:41,160 --> 00:07:44,680
+We can "slam" a heart emoji here.
+
+91
+00:07:44,840 --> 00:07:48,200
+Hopefully she'll click on the link -
+
+92
+00:07:48,360 --> 00:07:53,040
+And comes to a login page for her Youtube account -
+
+93
+00:07:53,200 --> 00:07:58,240
+- that we have created - a fake page. She's asked to log in to Youtube.
+
+94
+00:07:58,400 --> 00:08:03,480
+Hopefully she doesn't think twice and enters her information.
+
+95
+00:08:03,640 --> 00:08:07,720
+Then we'll have it and can log in to her Youtube.
+
+96
+00:08:07,880 --> 00:08:12,480
+I think I'm pretty reserved. It'll probably backfire.
+
+97
+00:08:12,640 --> 00:08:18,040
+But I don't save my passwords so that they are auto-filled.
+
+98
+00:08:18,200 --> 00:08:21,960
+When I enter credit card numbers -
+
+99
+00:08:22,120 --> 00:08:27,200
+-It asks if I want to save it, but I always press no.
+
+100
+00:08:27,360 --> 00:08:31,480
+I usually turn off location services on apps.
+
+101
+00:08:31,640 --> 00:08:37,120
+I still think about it a bit, compared to my partner who just pushes yes.
+
+102
+00:08:37,280 --> 00:08:43,640
+Phishing is behind 50-70% of all data breaches. That's the key to
+
+103
+00:08:43,800 --> 00:08:49,200
+- the most complex crimes we have in the world. It's the email itself ...
+
+104
+00:08:49,360 --> 00:08:55,320
+According to Statistics Sweden, it was sent to three million Swedes some years ago–
+
+105
+00:08:55,480 --> 00:08:59,680
+–These types of emails. And I know there are even more.
+
+106
+00:08:59,840 --> 00:09:06,640
+So it's the crime where you use the power of the internet the most.
+
+107
+00:09:06,800 --> 00:09:10,880
+It's a simple way to trick a large number of people.
+
+108
+00:09:11,040 --> 00:09:16,720
+It's enough that a few people falls for it for the people behind to earn-
+
+109
+00:09:16,880 --> 00:09:21,480
+- an incredible amount. There's a huge amount of money in it.
+
+110
+00:09:26,720 --> 00:09:31,840
+The plan is to try to infect Kristoffer's laptop with a back door.
+
+111
+00:09:32,000 --> 00:09:36,000
+A hidden program that gives us remote access to it-
+
+112
+00:09:36,160 --> 00:09:38,840
+-so we can spy on the user.
+
+113
+00:09:39,000 --> 00:09:45,040
+But many variables and obstacles make it difficult, and time is short.
+
+114
+00:09:47,200 --> 00:09:51,240
+To avoid suspicion Jesper pretends he's a photographer.
+
+115
+00:09:51,400 --> 00:09:56,040
+The goal is to run malicious code on Kristoffer's computer via a USB
+
+116
+00:09:56,200 --> 00:09:59,240
+- without him noticing.
+
+117
+00:10:01,680 --> 00:10:06,240
+-Hey! Welcome. -Thanks. I'm Jesper.
+
+118
+00:10:06,400 --> 00:10:10,880
+I got a camera and pretended like I belonged.
+
+119
+00:10:11,040 --> 00:10:15,600
+I walked around the room and pretended that I was one of the team.
+
+120
+00:10:15,760 --> 00:10:20,240
+At the same time I had contact with my colleagues on the outside.
+
+121
+00:10:20,400 --> 00:10:24,600
+Everyone in Ocean's Thirteen who intends to rob a bank
+
+122
+00:10:24,760 --> 00:10:30,000
+-But haven't managed to get the blueprints yet, can relax.
+
+123
+00:10:30,160 --> 00:10:34,800
+Such blueprints have leaked! Who are these hackers?
+
+124
+00:10:34,960 --> 00:10:40,080
+They are ingenious. We have to work even harder to catch up.
+
+125
+00:10:40,240 --> 00:10:44,520
+I am a TV host at SVT and host Svenska Nyheter.
+
+126
+00:10:44,680 --> 00:10:48,680
+I work full time with it 20 weeks a year.
+
+127
+00:10:48,840 --> 00:10:53,400
+Otherwise, I do podcasts which we record and edit here.
+
+128
+00:10:53,560 --> 00:11:00,080
+Let's prepare the interview. We'll take a picture when Jesper sits down.
+
+129
+00:11:00,240 --> 00:11:03,920
+I'll take one in here when it's empty.
+
+130
+00:11:08,680 --> 00:11:13,920
+When you left and did the interview I was alone in one of the rooms.
+
+131
+00:11:14,080 --> 00:11:19,240
+There was no door in between. I could have poked him in the neck.
+
+132
+00:11:19,400 --> 00:11:23,720
+Very close! Not much sound is needed for someone to turn around.
+
+133
+00:11:23,880 --> 00:11:26,960
+While the team prepares the interview -
+
+134
+00:11:27,120 --> 00:11:33,200
+- David and Linus drives to Therese's apartment to plant more traps.
+
+135
+00:11:33,360 --> 00:11:39,240
+- Do you have her address? -No, I actually don't have that.
+
+136
+00:11:39,400 --> 00:11:42,400
+- Should I fix it? -Yes, do it.
+
+137
+00:11:42,560 --> 00:11:47,600
+Therese: The worst that can happen is everything that risk my safety.
+
+138
+00:11:47,760 --> 00:11:50,920
+It only takes one crazy person -
+
+139
+00:11:51,080 --> 00:11:56,200
+- to make it very uncomfortable for me and my family.
+
+140
+00:11:58,360 --> 00:12:02,960
+The worst that can happen is private information being spread-
+
+141
+00:12:03,120 --> 00:12:10,480
+-like phone number and address, and that the wrong person uses it against me.
+
+142
+00:12:11,400 --> 00:12:15,520
+David is preparing an envelope with her address on–
+
+143
+00:12:15,680 --> 00:12:21,080
+And a letter with a USB stick, a usb memory.
+
+144
+00:12:21,240 --> 00:12:27,960
+There's a backdoor on it. It looks like a pdf file but is a backdoor.
+
+145
+00:12:28,120 --> 00:12:31,240
+We'll drop it in her mailbox.
+
+146
+00:12:31,400 --> 00:12:35,400
+We trick her to open the file.
+
+147
+00:12:35,560 --> 00:12:39,080
+We'll say we nominate her for an award–
+
+148
+00:12:39,240 --> 00:12:44,200
+-Because she's a good influencer and has made a effort.
+
+149
+00:12:44,360 --> 00:12:47,880
+I'll see if I can attack her wifi.
+
+150
+00:12:48,040 --> 00:12:52,400
+It could work or completely fail, but here we go.
+
+151
+00:12:52,560 --> 00:12:57,600
+David and I were waiting outside her gate for someone to enter.
+
+152
+00:12:57,760 --> 00:13:02,000
+Then the plan was to follow. Two people came -
+
+153
+00:13:02,160 --> 00:13:07,240
+-Which entered the adjoining gate so then we went in there instead.
+
+154
+00:13:07,400 --> 00:13:12,520
+It turned out that we got into her staircase via that gate as well.
+
+155
+00:13:18,240 --> 00:13:22,280
+I have the PIN code for the door, if we want to come back.
+
+156
+00:13:22,440 --> 00:13:27,480
+The USB stick is delivered. If she pluggs it into the laptop and opens the file-
+
+157
+00:13:27,640 --> 00:13:31,720
+- then we'll get access to her computer and can steal secrets–
+
+158
+00:13:31,880 --> 00:13:34,960
+-And maybe access password.
+
+159
+00:13:35,120 --> 00:13:38,720
+We have recorded signals from the wifi.
+
+160
+00:13:38,880 --> 00:13:41,920
+If we break the wifi password, we go back.
+
+161
+00:13:42,080 --> 00:13:45,920
+We're trying as many attack surfaces as possible–
+
+162
+00:13:46,080 --> 00:13:49,240
+- instead of all the eggs in one basket.
+
+163
+00:13:50,520 --> 00:13:55,640
+The risk is that it doesn't work. She may not even read the email.
+
+164
+00:13:55,800 --> 00:13:59,840
+Someone else might handle her emails. A lot can go wrong.
+
+165
+00:14:00,000 --> 00:14:04,720
+That's why we're throwing a wide net, to increase the chance of success.
+
+166
+00:14:09,840 --> 00:14:14,680
+We agree that that you should challenge your mandate.
+
+167
+00:14:14,840 --> 00:14:20,240
+Interesting things happen there, whether you are a host -
+
+168
+00:14:20,400 --> 00:14:23,560
+-Or if you are the principal of a school.
+
+169
+00:14:23,720 --> 00:14:29,120
+Challenge what you are allowed to do and consider what you'd rather do–
+
+170
+00:14:29,280 --> 00:14:33,320
+-And try to squeeze it into your mandate.
+
+171
+00:14:33,480 --> 00:14:37,760
+It will be much more fun if you do.
+
+172
+00:14:37,920 --> 00:14:43,560
+What happens will happen. The USB will place files locally-
+
+173
+00:14:43,720 --> 00:14:48,680
+-But also sends two connections to our server.
+
+174
+00:14:48,840 --> 00:14:51,440
+Älvsjö. It's running.
+
+175
+00:14:54,920 --> 00:14:59,040
+-Maybe it's the USB. Yes, yes, yes!
+
+176
+00:14:59,200 --> 00:15:02,560
+I suspect that my approach to IT security–
+
+177
+00:15:02,720 --> 00:15:06,840
+- is a bit like people's attitude to safety at sea.
+
+178
+00:15:07,000 --> 00:15:11,480
+"I don't need a life jacket, because I never go near the edge. "
+
+179
+00:15:11,640 --> 00:15:16,680
+You're thinking one step too short. If there's a fire, you have to jump overboard.
+
+180
+00:15:16,840 --> 00:15:20,880
+Then the difference between survival and death is a life jacket.
+
+181
+00:15:21,040 --> 00:15:27,400
+You don't understand what you're doing But I don't think I'm the worst.
+
+182
+00:15:27,560 --> 00:15:32,640
+I've still made an effort at some point. I don't want to be the guy who didn't want-
+
+183
+00:15:32,800 --> 00:15:37,320
+- there to be cars, because horses were safer.
+
+184
+00:15:37,480 --> 00:15:40,680
+This is how it is.
+
+185
+00:15:40,840 --> 00:15:44,920
+There is nothing worse than sitting in an internal system -
+
+186
+00:15:45,080 --> 00:15:49,560
+- like an uncle named Leif has created, which sucks-
+
+187
+00:15:49,720 --> 00:15:54,480
+-Just to avoid sharing our eating habits -
+
+188
+00:15:54,640 --> 00:15:59,720
+- with Silicon Valley. Which they will find somewhere anyway.
+
+189
+00:15:59,880 --> 00:16:03,960
+I can 't do anything about it. Deal with it.
+
+190
+00:16:06,360 --> 00:16:10,040
+- Is it still open? -Yes.
+
+191
+00:16:10,200 --> 00:16:13,240
+-Now! -Yes! We're in!
+
+192
+00:16:14,240 --> 00:16:18,560
+We have access to basically all files, and we're downloading them.
+
+193
+00:16:18,720 --> 00:16:22,760
+Documents, photos, but above all passwords.
+
+194
+00:16:22,920 --> 00:16:29,640
+We downloaded everything that may contain passwords, such as browsers.
+
+195
+00:16:29,800 --> 00:16:34,560
+-Thanks so much. See you tonight. -Yes, we will.
+
+196
+00:16:35,520 --> 00:16:39,600
+Even if the hackers have access to Kristoffer's computer -
+
+197
+00:16:39,760 --> 00:16:45,160
+- they need to get the passwords. This is where key chain comes into the picture.
+
+198
+00:16:45,320 --> 00:16:49,640
+Key chain is an encrypted container where the computer saves passwords
+
+199
+00:16:49,800 --> 00:16:55,960
+PIN codes and credit card details. For our hackers, it's a goldmine.
+
+200
+00:16:56,120 --> 00:17:00,280
+The problem is that the lock is robust and hard to crack.
+
+201
+00:17:06,560 --> 00:17:09,880
+You are currently 1:st in the queue.
+
+202
+00:17:10,040 --> 00:17:15,800
+People often use the same basis when picking passwords.
+
+203
+00:17:15,960 --> 00:17:21,040
+It's super common for people to add a year and a special character.
+
+204
+00:17:21,200 --> 00:17:26,360
+So that he has one of his former known passwords with a year after–
+
+205
+00:17:26,520 --> 00:17:29,560
+- is something we must try.
+
+206
+00:17:29,720 --> 00:17:33,200
+Welcome to the Tax Information.
+
+207
+00:17:33,360 --> 00:17:39,800
+Hi. My name is Linus. I want some information about a person's child.
+
+208
+00:17:39,960 --> 00:17:42,960
+We'll see what information we have.
+
+209
+00:17:43,120 --> 00:17:47,640
+It's easy to call the Swedish Tax Agency, it's like an open book.
+
+210
+00:17:47,800 --> 00:17:50,920
+- Is this about Kristoffer Appelquist? -Yes.
+
+211
+00:17:51,080 --> 00:17:56,280
+Two adult children and a minor. Want to know who the adults are?
+
+212
+00:17:56,440 --> 00:17:58,600
+Everyone.
+
+213
+00:17:58,760 --> 00:18:02,240
+- Was it the addresses you wanted? –Social security numbers.
+
+214
+00:18:02,400 --> 00:18:08,360
+Something we know is common is to use the children's birthyear.
+
+215
+00:18:08,520 --> 00:18:12,200
+-Only the first six digits? - No, all of it.
+
+216
+00:18:12,360 --> 00:18:17,160
+-Great. Thanks so much. -Thanks. Bye.
+
+217
+00:18:17,320 --> 00:18:22,280
+This is not Denmark, with semi-secret social security numbers.
+
+218
+00:18:22,440 --> 00:18:28,480
+We guessed passwords like crazy. Pretty slow against an Apple Keychain.
+
+219
+00:18:28,640 --> 00:18:34,160
+It went slowly. The hours went. We had a deadline of 20:00.
+
+220
+00:18:34,320 --> 00:18:40,120
+I'm gonna have to stop now. I just don't have enough time.
+
+221
+00:18:40,280 --> 00:18:44,680
+- Therese? -Yes. It will be difficult.
+
+222
+00:18:44,840 --> 00:18:48,840
+We've tried to crack her wifi, but failed.
+
+223
+00:18:49,000 --> 00:18:53,320
+We put a letter with a usb memory in her mailbox.
+
+224
+00:18:53,480 --> 00:19:00,200
+She hasn't plugged it in it seems. We still have the phishing attack.
+
+225
+00:19:00,360 --> 00:19:06,560
+I can imagine Therese's day starts with her having her morning coffee.
+
+226
+00:19:06,720 --> 00:19:11,800
+Then she opens her computer, and there's 56,000 unread emails.
+
+227
+00:19:11,960 --> 00:19:17,200
+Scroll, scroll. "Let's get to work." I don't think she has time.
+
+228
+00:19:17,360 --> 00:19:22,680
+Since yesterday I have received text messages which looks different.
+
+229
+00:19:22,840 --> 00:19:28,200
+It's an sms with asian characters, I don't know what language. And...
+
+230
+00:19:30,320 --> 00:19:34,440
+And yesterday when I sat on Youtube, I was logged out.
+
+231
+00:19:34,600 --> 00:19:39,000
+My partner asked: "Does this usually happen?" It has not happened in eight years -
+
+232
+00:19:39,160 --> 00:19:44,480
+-That I was suddenly logged out of Google and Youtube.
+
+233
+00:19:44,640 --> 00:19:47,720
+So that was weird.
+
+234
+00:19:48,800 --> 00:19:53,880
+The hackers realize that there's no time to both steal Therese's password-
+
+235
+00:19:54,040 --> 00:19:59,160
+–And get past her two-factor- authentication. The hack is canceled.
+
+236
+00:20:02,840 --> 00:20:06,440
+-Hello. -Hello! Hey!
+
+237
+00:20:07,360 --> 00:20:10,400
+-How's it going? -Good.
+
+238
+00:20:10,560 --> 00:20:15,040
+You have on the street met a dad to a fan.
+
+239
+00:20:15,800 --> 00:20:18,440
+-Yes!.
+
+240
+00:20:18,600 --> 00:20:21,600
+I was so happy too.
+
+241
+00:20:21,760 --> 00:20:26,480
+And then I got an email from his daughter and became so happy.
+
+242
+00:20:26,640 --> 00:20:32,160
+I clicked the link, because she had seen something in a video. I clicked.
+
+243
+00:20:32,320 --> 00:20:34,840
+What happened then?
+
+244
+00:20:35,000 --> 00:20:40,640
+It came up that I should fill in my details. So I closed it.
+
+245
+00:20:40,800 --> 00:20:45,560
+–Ah ... - We sent you phishing emails.
+
+246
+00:20:45,720 --> 00:20:48,200
+The goal was to get you to click -
+
+247
+00:20:48,360 --> 00:20:54,720
+-And hopefully, sometime when you're not so alert, log in–
+
+248
+00:20:54,880 --> 00:21:00,960
+-And then we hope that the details were used elsewhere.
+
+249
+00:21:01,120 --> 00:21:06,440
+Oh, no! Was it phishing, phishing- email, when you send out links?
+
+250
+00:21:06,600 --> 00:21:10,640
+-Exactly. "Nätfiske" in Swedish. -I understand.
+
+251
+00:21:10,800 --> 00:21:14,520
+Very well done, Therese!
+
+252
+00:21:14,680 --> 00:21:19,640
+This was very unpleasant, but it was very interesting.
+
+253
+00:21:19,800 --> 00:21:23,040
+I have learned a lot about reflecting.
+
+254
+00:21:23,200 --> 00:21:27,320
+- Very kind of you, Therese. -Thank you so much for today.
+
+255
+00:21:27,480 --> 00:21:32,520
+We all need to improve our security on the internet, talk about it.
+
+256
+00:21:32,680 --> 00:21:36,720
+We need to educate ourselves and each other.
+
+257
+00:21:36,880 --> 00:21:41,920
+We need to make demands on politicians for major efforts -
+
+258
+00:21:42,080 --> 00:21:45,160
+- when it comes to our IT security.
+
+259
+00:21:45,320 --> 00:21:48,440
+They need to give more money to the police–
+
+260
+00:21:48,600 --> 00:21:53,160
+So that they can investigate and prevent crime on the internet.
+
+261
+00:21:53,320 --> 00:21:56,360
+These are important issues.
+
+262
+00:21:56,520 --> 00:22:01,160
+Passwords must be unique. That is the most important thing.
+
+263
+00:22:01,320 --> 00:22:06,320
+Because if one service gets hacked, you only need to change that password-
+
+264
+00:22:06,480 --> 00:22:10,720
+- and wont risk something happening on the other sites.
+
+265
+00:22:10,880 --> 00:22:16,040
+The second is that it must be long - at least 12-15 characters.
+
+266
+00:22:16,200 --> 00:22:20,240
+The children's names - no. The dog's name or the registration number - no.
+
+267
+00:22:20,400 --> 00:22:24,200
+123456 - no, come on!
+
+268
+00:22:24,360 --> 00:22:28,520
+Rather than a character soup you can use a phrase. You can have:
+
+269
+00:22:28,680 --> 00:22:32,840
+"MyMotherSangForMeOnce- WhenIWasSleeping".
+
+270
+00:22:33,000 --> 00:22:39,480
+The longer, the harder it is to crack. It is easier to remember phrases.
+
+271
+00:22:39,640 --> 00:22:44,640
+But we shouldn't have to remember passwords - use password manager!
+
+272
+00:22:44,800 --> 00:22:50,080
+There are countless of them. find out your needs, and choose tools.
+
+273
+00:22:54,440 --> 00:22:57,920
+–Hey! Good work! -So damn nice!
+
+274
+00:22:58,080 --> 00:23:03,640
+The breakthrough came when my computer cracked the password to his key chain.
+
+275
+00:23:03,800 --> 00:23:08,000
+It was a combination of his old password "hatasj" -
+
+276
+00:23:08,160 --> 00:23:15,120
+And the birth year of one of his children. Then the treasure chest opened: key chain.
+
+277
+00:23:15,280 --> 00:23:21,280
+Now we all have passwords in the key chain. We have Chrome login passwords.
+
+278
+00:23:21,440 --> 00:23:26,520
+We have to decrypt it now, because it contains more passwords.
+
+279
+00:23:26,680 --> 00:23:33,760
+David managed to decrypt it and the secrets just poured out.
+
+280
+00:23:33,920 --> 00:23:39,440
+We all have passwords for Chrome Extensions now. Everything!
+
+281
+00:23:39,600 --> 00:23:43,080
+–The works! –162 different ones. Good.
+
+282
+00:23:43,240 --> 00:23:48,200
+-We can login to Instagram, right? -What nasty tricks should we do?
+
+283
+00:23:48,360 --> 00:23:52,520
+-I think a picture is fun. - I can check Facebook.
+
+284
+00:23:52,680 --> 00:23:54,680
+He has to put up with a bit of mischief.
+
+285
+00:23:54,840 --> 00:23:59,520
+We take a picture where we stand with a sign: "Double passwords."
+
+286
+00:23:59,680 --> 00:24:02,440
+Are you ready? Smile.
+
+287
+00:24:06,920 --> 00:24:10,920
+Ten hours has passed since the hackers infected Kristoffer's computer.
+
+288
+00:24:11,080 --> 00:24:17,120
+Now Jesper can be himself. It's time to reveal himself.
+
+289
+00:24:18,360 --> 00:24:21,840
+-Hello! My name is Jesper. -Welcome.
+
+290
+00:24:22,000 --> 00:24:27,600
+I work as an IT security specialist - you probably already understood that.
+
+291
+00:24:27,760 --> 00:24:30,920
+-I have. - You look a bit confused.
+
+292
+00:24:31,080 --> 00:24:35,120
+No, but ... I think we have had contact during the day.
+
+293
+00:24:35,280 --> 00:24:40,160
+- I got some emails because of you. -That's probably true.
+
+294
+00:24:40,320 --> 00:24:44,640
+-At least the last few hours. -Right.
+
+295
+00:24:44,800 --> 00:24:49,480
+- Have you noticed anything else? -I think Instagram, Facebook and ...
+
+296
+00:24:49,640 --> 00:24:53,920
+- Can we check Instagram now, or? -Yes absolutely.
+
+297
+00:24:55,040 --> 00:24:59,840
+Damn, you didn't post on Instagram? -No no no....
+
+298
+00:25:00,000 --> 00:25:04,040
+Check the latest post. Are you nervous, or?
+
+299
+00:25:04,200 --> 00:25:07,480
+-Yes of course. No worries, it's safe for work.
+
+300
+00:25:07,640 --> 00:25:11,160
+Do you recognize anyone? / JESPER LAUGHS /
+
+301
+00:25:11,320 --> 00:25:15,840
+Thank you very much. It says "double passwords".
+
+302
+00:25:16,000 --> 00:25:22,200
+Proof that I was owned, It hurt little.
+
+303
+00:25:22,360 --> 00:25:26,760
+I'm not an IT manager at some damn security company.
+
+304
+00:25:26,920 --> 00:25:31,280
+-I'm a clown. -But a pretty good clown.
+
+305
+00:25:31,440 --> 00:25:36,480
+But I didn't do this alone, I had help. Here they are.
+
+306
+00:25:36,640 --> 00:25:39,880
+Can you see us? You're frozen.
+
+307
+00:25:40,040 --> 00:25:43,480
+-Yes now. Hey! -Hello!
+
+308
+00:25:43,640 --> 00:25:47,640
+David and I were in the hotel room and joined via Teams.
+
+309
+00:25:47,800 --> 00:25:50,720
+We could control his computer from there.
+
+310
+00:25:50,880 --> 00:25:54,440
+- Do you have your computer in front of you? -I do.
+
+311
+00:25:54,600 --> 00:25:56,920
+Is there something on your screen now?
+
+312
+00:25:57,080 --> 00:26:01,600
+I opened this document that I had-
+
+313
+00:26:01,760 --> 00:26:06,760
+- with over 100 usernames and password, on the screen.
+
+314
+00:26:06,920 --> 00:26:10,320
+–Shit! - You need triple passwords.
+
+315
+00:26:10,480 --> 00:26:17,160
+Thanks. I knew this would come back and bite me in the ass.
+
+316
+00:26:17,320 --> 00:26:23,400
+It was fun hacking Kristoffer, since Svenska Nyheter is quite provocative.
+
+317
+00:26:23,560 --> 00:26:25,560
+He took it well.
+
+318
+00:26:25,720 --> 00:26:30,720
+But ... oh yeah. It's pretty frustrating, because it's not just my passwords.
+
+319
+00:26:30,880 --> 00:26:34,040
+It's SVT's password -
+
+320
+00:26:34,200 --> 00:26:39,240
+-Which I have been given as trade secrets. Damn, this sucks!
+
+321
+00:26:39,400 --> 00:26:42,480
+But you know? I'm also super happy.
+
+322
+00:26:42,640 --> 00:26:49,680
+Because if I had this list, I would have save so much time!
+
+323
+00:26:49,840 --> 00:26:54,320
+I've agreed to this, so not much to whine about.
+
+324
+00:26:54,480 --> 00:26:58,560
+It's an eye opener how all your stuff is connected.
+
+325
+00:26:58,720 --> 00:27:03,880
+"I have that password there too, so if someone finds it "...
+
+326
+00:27:04,040 --> 00:27:09,160
+I get that someone malicious can mess things up for me.
+
+327
+00:27:09,320 --> 00:27:13,920
+A bit like standing at the board in The Luxury Trap:
+
+328
+00:27:14,080 --> 00:27:20,280
+"I knew I had bad economy but not that it was this bad. "
+
+329
+00:27:20,440 --> 00:27:22,440
+Good summary.
+
+330
+00:27:22,600 --> 00:27:26,200
+The hackers' phishing against Therese failed.
+
+331
+00:27:26,360 --> 00:27:31,720
+Therese clicked on a link, but never entered her details.
+
+332
+00:27:31,880 --> 00:27:34,920
+Kristoffer's computer was infected.
+
+333
+00:27:35,080 --> 00:27:39,240
+The hackers could, after eight hours unlock the computer key chain.
+
+334
+00:27:39,400 --> 00:27:45,200
+They stole just over 100 credentials, like Kristoffer's Instagram account.
+
+335
+00:27:45,360 --> 00:27:50,840
+Kristoffer: I was happy to join this program.
+
+336
+00:27:51,000 --> 00:27:56,040
+The reason is simple: It would be fun to find out what I am worst at–
+
+337
+00:27:56,200 --> 00:28:01,360
+-So that I can be the best at it instead. Now I can start doing it right.
+
+338
+00:28:05,280 --> 00:28:10,760
+I searched for passwords. Then I've been reading. You have to kill me now?
+
+339
+00:28:10,920 --> 00:28:15,640
+-No, but ... Is the camera turned off? - We need to fix this.
+
+340
+00:28:15,800 --> 00:28:20,880
+What you have found, we have to fix - and it's pretty urgent.
+
+341
+00:28:25,880 --> 00:28:29,120
+Subtitles: Barbro Garneij Swedish Media Text for SVT
+

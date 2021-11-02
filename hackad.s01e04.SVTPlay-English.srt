@@ -1,0 +1,1124 @@
+1
+00:00:01,160 --> 00:00:03,920
+/ ALARM /
+
+2
+00:00:09,000 --> 00:00:12,720
+Good morning, Klara. Hope you have slept well.
+
+3
+00:00:12,880 --> 00:00:18,680
+It is sunny outside. The temperature is 7 degrees and it's quite windy.
+
+4
+00:00:21,840 --> 00:00:25,280
+Good morning, Molly. Hope you have slept well.
+
+5
+00:00:25,440 --> 00:00:29,560
+It's Tuesday. Don't forget, Molly has outdoor activities-
+
+6
+00:00:29,720 --> 00:00:33,920
+-and that Klara should bring homework to school.
+
+7
+00:00:34,600 --> 00:00:37,800
+Start the coffee maker.
+
+8
+00:00:37,960 --> 00:00:41,440
+Sure. Setting it on level two.
+
+9
+00:00:41,600 --> 00:00:47,280
+Our homes are becoming increasingly connected and filled with smart devices.
+
+10
+00:00:47,440 --> 00:00:54,040
+Features such as locks, alarms and - security are today connected to the Internet.
+
+11
+00:00:54,200 --> 00:00:57,600
+And all digital systems has flaws.
+
+12
+00:00:57,760 --> 00:01:01,440
+More and more home equipment is connected to the network.
+
+13
+00:01:01,600 --> 00:01:05,680
+All this is hacked easily, which the criminals know.
+
+14
+00:01:05,840 --> 00:01:07,840
+We will test
+
+15
+00:01:08,000 --> 00:01:12,440
+if our hackers can take control over a connected home.
+
+16
+00:01:12,600 --> 00:01:17,000
+-They have 30 hours. -I think we have to steal one.
+
+17
+00:01:34,040 --> 00:01:37,360
+What do you want me to do?
+
+18
+00:01:41,920 --> 00:01:48,400
+My name is Karl-Johan Lidenalv and work as a system manager within IoT.
+
+19
+00:01:48,560 --> 00:01:51,200
+IoT means "internet of things" -
+
+20
+00:01:51,360 --> 00:01:55,360
+-and means connected machines and things.
+
+21
+00:01:55,520 --> 00:01:59,400
+That is a basic precondition to control the home
+
+22
+00:01:59,560 --> 00:02:02,400
+-without human interaction.
+
+23
+00:02:02,560 --> 00:02:04,760
+What will the weather be like?
+
+24
+00:02:04,920 --> 00:02:08,160
+In Karlskrona it will be mostly sunny.
+
+25
+00:02:08,320 --> 00:02:10,640
+Temperatures of 2-16 degrees.
+
+26
+00:02:10,800 --> 00:02:17,400
+Our morning routine is based on that we should easily get out of bed in time.
+
+27
+00:02:17,560 --> 00:02:22,800
+We raise curtains, and turn on the light during the winter.
+
+28
+00:02:22,960 --> 00:02:27,800
+We start the radio. Everything to get a awakening as possible.
+
+29
+00:02:27,960 --> 00:02:32,440
+Then our assistant informs us what is happening today.
+
+30
+00:02:32,600 --> 00:02:35,480
+Let me talk to the store.
+
+31
+00:02:36,440 --> 00:02:40,200
+Hey! Already back? What can I do for you?
+
+32
+00:02:40,360 --> 00:02:44,280
+Add pear drink to shopping list.
+
+33
+00:02:44,440 --> 00:02:50,200
+-Roger. What more do you need? -Candy.
+
+34
+00:02:50,360 --> 00:02:55,240
+-Okay. Hope to hear from you soon. -It will probably be added on Saturday.
+
+35
+00:02:55,400 --> 00:02:58,480
+The big thing we have is the automations.
+
+36
+00:02:58,640 --> 00:03:04,480
+But the children probably use the assistants more than us adults, in general.
+
+37
+00:03:04,640 --> 00:03:10,000
+Best way to Bastasjön by bus is to take the bus 3 which leaves at 7.27-
+
+38
+00:03:10,160 --> 00:03:15,080
+-from the AWA road that lies 10 seconds from your location.
+
+39
+00:03:15,240 --> 00:03:18,600
+The journey takes a total of 26 minutes.
+
+40
+00:03:26,160 --> 00:03:33,040
+I know the goal is to get in and take over my smart home.
+
+41
+00:03:35,240 --> 00:03:42,520
+But I have not released information and do not know where they'll start.
+
+42
+00:03:42,680 --> 00:03:47,280
+The smart home consists of about 70 microprocessors and sensors
+
+43
+00:03:47,440 --> 00:03:52,400
+- in the house and the backyard. Karl-Johan works from home
+
+44
+00:03:52,560 --> 00:03:57,440
+-but has poor view of the garden and backyard, where the hackers are.
+
+45
+00:03:57,600 --> 00:04:03,120
+Now the hackers have to find a sensor without Karl-Johan discovering it.
+
+46
+00:04:10,320 --> 00:04:12,840
+-Found something? -Yes and no.
+
+47
+00:04:13,000 --> 00:04:19,440
+-Was there anything that felt connected? -There's a sensor.
+
+48
+00:04:19,600 --> 00:04:25,560
+Is the guy an old soldier? There might be mines buried.
+
+49
+00:04:25,720 --> 00:04:30,120
+We can be burglars. Dibs for not being that.
+
+50
+00:04:30,280 --> 00:04:34,280
+-Are they home? -There are people at home.
+
+51
+00:04:36,280 --> 00:04:41,840
+I don't know what we're doing yet, but we're hacking a house with a gentleman-
+
+52
+00:04:42,000 --> 00:04:47,560
+-who has lots of connected tiny computers that controls different things.
+
+53
+00:04:47,720 --> 00:04:51,920
+We need to access his sensors in the garden.
+
+54
+00:04:52,080 --> 00:04:58,840
+They may contain secrets, so that we can connect to the inside.
+
+55
+00:04:59,000 --> 00:05:02,480
+If anyone wonders what I'm doing there-
+
+56
+00:05:02,640 --> 00:05:07,360
+-I'll pretend to be from land inspection or an estate agent.
+
+57
+00:05:07,520 --> 00:05:11,560
+Some kind of office worker, because that's how I'm dressed.
+
+58
+00:05:11,720 --> 00:05:18,080
+Our plan is to follow cables in the– backyard that can lead to sensors.
+
+59
+00:05:44,920 --> 00:05:48,400
+-Hey! Did you get it? - Get this!
+
+60
+00:05:48,560 --> 00:05:55,160
+There's a fucking router here, so we can connect directly to it.
+
+61
+00:05:55,320 --> 00:05:59,440
+He went in as a burglar and scouted.
+
+62
+00:05:59,600 --> 00:06:03,520
+He probably found what we were looking for.
+
+63
+00:06:03,680 --> 00:06:09,880
+A box that probably has a control unit to the stuff we want to hack.
+
+64
+00:06:10,040 --> 00:06:14,080
+But he also found a router and power.
+
+65
+00:06:14,240 --> 00:06:19,880
+So really, we can just connect here like a network unit.
+
+66
+00:06:22,360 --> 00:06:27,120
+Pretty sure I'm safe. They will never get in.
+
+67
+00:06:27,280 --> 00:06:33,120
+Should they, against all odds, get in, they can't take over my smart home.
+
+68
+00:06:33,280 --> 00:06:36,760
+This is the time they lose.
+
+69
+00:06:36,920 --> 00:06:40,520
+Here we have the router which is the entrance to the network.
+
+70
+00:06:40,680 --> 00:06:44,080
+Everything is built together and integrated with each other.
+
+71
+00:06:44,240 --> 00:06:47,120
+If you want to get in, this is it.
+
+72
+00:06:47,280 --> 00:06:51,680
+It's the heart of my smart home and the most sensitive machine.
+
+73
+00:06:51,840 --> 00:06:58,720
+Here you see when someone has logged in to the router. It's me, hopefully.
+
+74
+00:06:59,800 --> 00:07:04,320
+More and more home equipment is connected to the network.
+
+75
+00:07:04,480 --> 00:07:11,280
+The lawnmower, your alarm or your baby monitor.
+
+76
+00:07:11,440 --> 00:07:14,880
+Everything is connected. Even the fridge.
+
+77
+00:07:15,040 --> 00:07:18,760
+All this is hacked easily,
+
+78
+00:07:18,920 --> 00:07:26,080
+-since most companies use the same passwords for the entire series of products.
+
+79
+00:07:26,240 --> 00:07:29,480
+which the criminals know. -And then take over.
+
+80
+00:07:29,640 --> 00:07:35,800
+You can turn off the alarm remotely in your home, if it is of that type.
+
+81
+00:08:15,000 --> 00:08:21,040
+Yes, we are in a 2.10-network. Now we have access to the inside.
+
+82
+00:08:21,200 --> 00:08:27,600
+We have found a router on the outside which we have plugged into.
+
+83
+00:08:27,760 --> 00:08:31,160
+It has a bad connection towards the rest of the house-
+
+84
+00:08:31,320 --> 00:08:36,880
+-but we have validated that it is the correct network, so we reach devices in the house.
+
+85
+00:08:37,040 --> 00:08:42,320
+-Check quickly and map up the inside. -It's slow, but I'm doing it.
+
+86
+00:08:42,480 --> 00:08:45,560
+Then we'll work from that.
+
+87
+00:08:48,840 --> 00:08:54,160
+I think I have somewhat higher security thinking than the average user.
+
+88
+00:08:54,320 --> 00:09:00,440
+I have a real firewall, or a real router with a firewall in.
+
+89
+00:09:00,600 --> 00:09:07,400
+I have my IoT devices segregated on their own network.
+
+90
+00:09:07,560 --> 00:09:14,800
+So even if you take over the IoT devices they can't take over my smart home.
+
+91
+00:09:14,960 --> 00:09:21,120
+I have rules in the firewall that locks people out who behave badly.
+
+92
+00:09:21,280 --> 00:09:25,640
+- Do you see the access point? -No, there's nothing.
+
+93
+00:09:25,800 --> 00:09:29,200
+-I don't see anything either. -Have they turned it off?
+
+94
+00:09:29,360 --> 00:09:32,160
+The network disappeared for a bit-
+
+95
+00:09:32,320 --> 00:09:37,520
+-so we think someone pulled the cord to the brain. Which is bad.
+
+96
+00:09:37,680 --> 00:09:43,960
+We no longer have access. The guy was probably paranoid and pulled out the cord.
+
+97
+00:09:44,120 --> 00:09:46,640
+We do not see wifi anymore.
+
+98
+00:09:46,800 --> 00:09:51,040
+The hackers have lost contact and need to find access.
+
+99
+00:09:51,200 --> 00:09:56,800
+Jesper wants to steal one of the houses microprocessors. The clock is ticking...
+
+100
+00:09:56,960 --> 00:10:01,920
+We need to steal a device to see how they are configured.
+
+101
+00:10:02,080 --> 00:10:05,800
+-You get a pair of pliers. - Shall we cut it off?
+
+102
+00:10:05,960 --> 00:10:09,720
+We take the configuration to the hotel-
+
+103
+00:10:09,880 --> 00:10:13,640
+and make a hacker button during the night.
+
+104
+00:10:13,800 --> 00:10:16,680
+Then we can press Enter tomorrow.
+
+105
+00:10:16,840 --> 00:10:20,920
+That's as non-technical I can make it.
+
+106
+00:10:21,080 --> 00:10:27,600
+You're not filming this, are you? We'll just go and take that shit down.
+
+107
+00:10:29,200 --> 00:10:35,040
+A small circuit board on the different sensors that contain secrets
+
+108
+00:10:35,200 --> 00:10:39,760
+-which we want to extract. We need them physically.
+
+109
+00:10:39,920 --> 00:10:44,200
+I'll find a "Raspberry Pi" and remove the memory card from it.
+
+110
+00:10:44,360 --> 00:10:48,040
+And Jesper will find the sensor.
+
+111
+00:11:02,320 --> 00:11:07,800
+The car is also connected, which it wasn't from the beginning.
+
+112
+00:11:07,960 --> 00:11:12,520
+I have put in a gps tracker in my automation layer.
+
+113
+00:11:12,680 --> 00:11:15,120
+I load the car's position-
+
+114
+00:11:15,280 --> 00:11:21,720
+-and when the car comes home, the garage door open.
+
+115
+00:11:44,720 --> 00:11:47,400
+Jesper.
+
+116
+00:11:48,320 --> 00:11:53,920
+What's up? Had a good day? - Did you have a good day as well?
+
+117
+00:11:54,080 --> 00:11:58,120
+-Did you check that the power did not die? -Yes.
+
+118
+00:12:04,840 --> 00:12:09,720
+Now we have access to one of the networks
+
+119
+00:12:09,880 --> 00:12:13,880
+-and can try to get further in via that one.
+
+120
+00:12:16,840 --> 00:12:20,960
+We often have consumer products that are wide open to a hacker.
+
+121
+00:12:21,120 --> 00:12:26,880
+It is a danger in several different ways. We can be monitored.
+
+122
+00:12:27,040 --> 00:12:31,160
+Pictures and information can get into the wrong hands.
+
+123
+00:12:31,320 --> 00:12:38,920
+An example is watches you have for monitoring children and where they should go.
+
+124
+00:12:39,080 --> 00:12:43,200
+From them others have obtained that information.
+
+125
+00:12:43,360 --> 00:12:47,520
+It's uncomfortable if anyone else knows where all the children are.
+
+126
+00:12:47,680 --> 00:12:51,960
+It can also affect our society.
+
+127
+00:12:52,120 --> 00:12:59,680
+You then connect many IoT things, for example cameras, in a huge network.
+
+128
+00:12:59,840 --> 00:13:06,200
+Then you use them to attack for example authorities and newspapers.
+
+129
+00:13:07,520 --> 00:13:13,440
+Through your router criminals can take over Internet-connected objects.
+
+130
+00:13:13,600 --> 00:13:17,240
+They can order thousands of devices in thousands of homes-
+
+131
+00:13:17,400 --> 00:13:21,520
+-to send requests at the same time to a company or an authority.
+
+132
+00:13:21,680 --> 00:13:24,160
+A so-called DDos attack.
+
+133
+00:13:24,320 --> 00:13:30,120
+The company's system is blocked, and they can not perform normal tasks.
+
+134
+00:13:30,280 --> 00:13:36,560
+All this happens in silence without you having an idea of what's going on.
+
+135
+00:13:36,720 --> 00:13:40,480
+You can buy a network of computers in e.g. Russia-
+
+136
+00:13:40,640 --> 00:13:44,920
+-and pay per hour, as long as you are going to use it.
+
+137
+00:13:49,560 --> 00:13:54,120
+- Do you want some food? -Yes! We'll put it here.
+
+138
+00:13:54,280 --> 00:13:56,880
+Nothing has affected my work-
+
+139
+00:13:57,040 --> 00:14:03,240
+-but I have noticed that unknown devices has accessed our wifi.
+
+140
+00:14:03,400 --> 00:14:08,080
+A switch stopped working at 13.55.
+
+141
+00:14:08,240 --> 00:14:11,360
+I'm a little nervous, I must say.
+
+142
+00:14:15,160 --> 00:14:20,480
+-Why didn't it say anything about the laundry? -30 degree washes do not go to 100%.
+
+143
+00:14:20,640 --> 00:14:26,000
+They only go to 99%, and then it does not have time to react.
+
+144
+00:14:26,160 --> 00:14:28,640
+My wife...
+
+145
+00:14:30,440 --> 00:14:35,240
+-I'm interested when it works. -It always does.
+
+146
+00:14:35,400 --> 00:14:40,240
+I can't turn on a lamp without using the phone.
+
+147
+00:14:40,400 --> 00:14:45,280
+I can't pull up the blinds anymore, the strings are removed.
+
+148
+00:14:45,440 --> 00:14:50,240
+I remember there was a weekend ...
+
+149
+00:14:50,400 --> 00:14:57,040
+... when it was dark, cold and winter, and something went down.
+
+150
+00:14:57,200 --> 00:15:02,640
+All weekend I could not turn on the lights. He wasn't very popular then.
+
+151
+00:15:02,800 --> 00:15:08,040
+When the garage door went up and down at night she wasn't happy.
+
+152
+00:15:08,200 --> 00:15:13,720
+If I said it was annoying to go and see if the laundry was finished
+
+153
+00:15:13,880 --> 00:15:19,680
+-he'd reply: "I'll fix it!" We have a speaker that says:
+
+154
+00:15:19,840 --> 00:15:23,440
+"The washing machine is ready, the hot tub is hot ... "
+
+155
+00:15:23,600 --> 00:15:26,680
+We connect it and record a sound.
+
+156
+00:15:26,840 --> 00:15:31,520
+A lamp turns green when it's finished and red when it's not.
+
+157
+00:15:31,680 --> 00:15:34,920
+The washing machine is ready.
+
+158
+00:15:35,080 --> 00:15:39,720
+-The... -It's green now, so it's done.
+
+159
+00:15:39,880 --> 00:15:42,880
+It turns green during the second half.
+
+160
+00:15:43,040 --> 00:15:46,280
+-Is it finished, then? -I heard it.
+
+161
+00:15:46,440 --> 00:15:49,520
+My wife is not entirely positive.
+
+162
+00:15:49,680 --> 00:15:55,720
+She thinks I'm a nerd and that I do it for my own sake.
+
+163
+00:15:55,880 --> 00:16:01,200
+But it's happiness those times that I make her think-
+
+164
+00:16:01,360 --> 00:16:05,320
+-that I've done good stuff.
+
+165
+00:16:07,760 --> 00:16:11,600
+The dryer is ready.
+
+166
+00:16:11,760 --> 00:16:16,040
+Let me talk to the store. Do you have a recipe for gratin?
+
+167
+00:16:16,200 --> 00:16:20,400
+-ICA is unfortunately not answering right now. -Do you have a recipe?
+
+168
+00:16:20,560 --> 00:16:25,240
+But Dad, Mom knows, so ask her.
+
+169
+00:16:25,400 --> 00:16:29,000
+Yes, then we'll try it. - Hi mom...!
+
+170
+00:16:30,680 --> 00:16:34,480
+Add margarine to the shopping list.
+
+171
+00:16:34,640 --> 00:16:37,800
+Add fruit to the shopping list.
+
+172
+00:16:37,960 --> 00:16:41,160
+Add salad to the shopping list.
+
+173
+00:16:51,520 --> 00:16:55,000
+The hackers go to the hotel to work undisturbed.
+
+174
+00:16:55,160 --> 00:17:01,200
+They notice that Karl-Johan's system is more advanced than they hoped for.
+
+175
+00:17:01,360 --> 00:17:06,120
+This IoT man is like a mad scientist.
+
+176
+00:17:06,280 --> 00:17:10,000
+there are firewalls and network segmentation.
+
+177
+00:17:10,160 --> 00:17:14,840
+So different networks for the different devices. There are different accounts.
+
+178
+00:17:15,000 --> 00:17:20,480
+He's really thought of everything. It's super hard to hack him.
+
+179
+00:17:22,760 --> 00:17:27,280
+We're trying to learn to speak "curtain language".
+
+180
+00:17:27,440 --> 00:17:33,200
+We don't know what language they speak, and therefore they do not understand us.
+
+181
+00:17:33,360 --> 00:17:38,480
+We can send data to them, however they're sitting there in the window and like:
+
+182
+00:17:38,640 --> 00:17:40,440
+"What? No."
+
+183
+00:17:40,600 --> 00:17:44,640
+There are a number of networks. We have access to two of them.
+
+184
+00:17:44,800 --> 00:17:49,280
+Inside are all the units which we want to control.
+
+185
+00:17:49,440 --> 00:17:55,240
+But we don't know how to control them - how the pool and blinds are controlled.
+
+186
+00:17:55,400 --> 00:17:59,400
+We have to log in to the other network where the "levers" are located.
+
+187
+00:17:59,560 --> 00:18:02,680
+We have tools, but no levers.
+
+188
+00:18:02,840 --> 00:18:08,320
+It's a sharp learning curve because no one has done it before.
+
+189
+00:18:08,480 --> 00:18:11,160
+What the fuck?
+
+190
+00:18:11,320 --> 00:18:16,920
+It just stopped working. It's very strange.
+
+191
+00:18:17,080 --> 00:18:22,240
+Have we said we can handle this? We're told you we'd give it a try.
+
+192
+00:18:22,400 --> 00:18:26,600
+-This... -Oh, how frustrating.
+
+193
+00:18:31,680 --> 00:18:36,640
+We want to trick the devices on the network to talk to our unit-
+
+194
+00:18:36,800 --> 00:18:39,560
+-so that we can record all traffic.
+
+195
+00:18:39,720 --> 00:18:43,520
+We hope that they then send important information.
+
+196
+00:18:43,680 --> 00:18:50,240
+We want to record when a device sends "lower the blinds".
+
+197
+00:18:50,400 --> 00:18:54,920
+If we catch this "request", we can replay it and do the same.
+
+198
+00:18:55,080 --> 00:18:57,960
+Then we'll learn how it works.
+
+199
+00:19:13,360 --> 00:19:18,200
+Now we've been sitting all day, tonight and quite late at night.
+
+200
+00:19:18,360 --> 00:19:22,560
+Jesper has given up. He couldn't bear it and needed to sleep.
+
+201
+00:19:22,720 --> 00:19:27,400
+The sound engineer and others from the film crew has given up.
+
+202
+00:19:27,560 --> 00:19:32,000
+Jinny and I are left and we have to crack this.
+
+203
+00:19:32,160 --> 00:19:36,280
+But we'll see because it's quite late at night.
+
+204
+00:19:37,800 --> 00:19:40,800
+I've found some interesting stuff.
+
+205
+00:19:40,960 --> 00:19:44,880
+Three new machines which we have not connected to.
+
+206
+00:19:45,040 --> 00:19:50,640
+David has created an account that has synced to the different devices.
+
+207
+00:19:50,800 --> 00:19:55,600
+We have now logged on to more devices.
+
+208
+00:19:55,760 --> 00:19:58,800
+We are administrators on the entire network.
+
+209
+00:19:58,960 --> 00:20:05,160
+Imagine we are here, and so we find a small path into the third network.
+
+210
+00:20:05,320 --> 00:20:08,640
+But we have not found the net that controls the devices.
+
+211
+00:20:08,800 --> 00:20:14,360
+The plan now is to try to get in on the "mother server" that controls everything.
+
+212
+00:20:14,520 --> 00:20:20,480
+From there, we can control all devices instead of going to each device.
+
+213
+00:20:20,640 --> 00:20:25,560
+Instead of talking "blinds" we are trying to talk "mom" -
+
+214
+00:20:25,720 --> 00:20:28,280
+-and then mom gets to talk blinds.
+
+215
+00:20:28,440 --> 00:20:33,760
+If we can learn how to do that, we get access to everything.
+
+216
+00:20:33,920 --> 00:20:40,920
+I've probably found the brain. Here is the "input number curtain bedroom".
+
+217
+00:20:41,080 --> 00:20:44,160
+We are not far from it now.
+
+218
+00:21:07,880 --> 00:21:13,840
+Shall we connect a hotspot and just go from there?
+
+219
+00:22:04,680 --> 00:22:07,720
+So sick! We'll do it again.
+
+220
+00:22:19,920 --> 00:22:24,760
+-Radio: If I could ... -Fuck, that scared me!
+
+221
+00:22:24,920 --> 00:22:28,920
+-Why did it start? -Press...
+
+222
+00:22:46,120 --> 00:22:48,200
+Okay...
+
+223
+00:22:52,480 --> 00:22:57,640
+We can't count our chickens yet. We've only opened the garage door.
+
+224
+00:22:57,800 --> 00:23:02,600
+So now we're scheming, because we want to see what we can do.
+
+225
+00:23:02,760 --> 00:23:08,400
+Can we control the washing machine, the pool, the curtains and Spotify?
+
+226
+00:23:08,560 --> 00:23:11,880
+We want to take over everything in the whole house.
+
+227
+00:23:12,040 --> 00:23:17,920
+We think that we can speak these languages-
+
+228
+00:23:18,080 --> 00:23:22,880
+-and then we build a giant program which turns everything on.
+
+229
+00:23:23,040 --> 00:23:26,160
+It's going to be awesome if it works.
+
+230
+00:23:26,320 --> 00:23:32,440
+Damn, good job yesterday! I didn't have any energy left. You're awesome.
+
+231
+00:23:32,600 --> 00:23:36,920
+-I felt I couldn't give up. -Good.
+
+232
+00:23:44,160 --> 00:23:49,320
+-Check Keybase. -We want him to notice us.
+
+233
+00:23:49,480 --> 00:23:54,440
+I'll call you soon. I'll sneak around a bit.
+
+234
+00:23:54,600 --> 00:23:56,880
+You're online.
+
+235
+00:23:59,200 --> 00:24:04,600
+-I've started Spotify in Klara's room. -I was going to take the kitchen.
+
+236
+00:24:04,760 --> 00:24:09,440
+Do it. I'm running the death script now.
+
+237
+00:24:09,600 --> 00:24:11,720
+It's running.
+
+238
+00:24:16,800 --> 00:24:20,680
+-Run it in the kitchen too. -Let's go.
+
+239
+00:24:30,520 --> 00:24:33,760
+- "Epic Sax Guy". -Absolutely.
+
+240
+00:24:33,920 --> 00:24:37,400
+It's not that dangerously annoying ...
+
+241
+00:24:37,560 --> 00:24:40,720
+Let's turn up the volume.
+
+242
+00:24:43,840 --> 00:24:47,640
+Now it's "saxophone guy".
+
+243
+00:24:49,120 --> 00:24:52,800
+The garage door opens.
+
+244
+00:24:58,520 --> 00:25:01,360
+-Turn off. - It's not us.
+
+245
+00:25:01,520 --> 00:25:04,840
+They have hacked our home.
+
+246
+00:25:09,920 --> 00:25:12,800
+They lower a little now and then.
+
+247
+00:25:14,960 --> 00:25:20,680
+They're lowering. Damn. They lower, but I raise.
+
+248
+00:25:20,840 --> 00:25:23,120
+The garage door closes.
+
+249
+00:25:25,160 --> 00:25:30,640
+You can lower a little. It's very loud in there.
+
+250
+00:25:30,800 --> 00:25:33,160
+I've lowered now.
+
+251
+00:25:33,320 --> 00:25:36,680
+It was a bit disappointing.
+
+252
+00:25:36,840 --> 00:25:42,040
+I understood that they had gotten in and taken over the home.
+
+253
+00:25:43,040 --> 00:25:46,440
+"Guilty as charged."
+
+254
+00:25:46,600 --> 00:25:50,840
+Come, let me show you something. You're a hero.
+
+255
+00:25:51,000 --> 00:25:55,480
+My God, how many units do you have! A big compliment, then.
+
+256
+00:25:55,640 --> 00:26:00,720
+-Good work. You have succeeded. -Not without us pulling our hair.
+
+257
+00:26:00,880 --> 00:26:05,480
+-It was quite a struggle. -Shit, you have so much stuff. Cool.
+
+258
+00:26:05,640 --> 00:26:08,840
+I didn't think they would get in.
+
+259
+00:26:09,000 --> 00:26:15,120
+The biggest discomfort came when I saw devices online on my wifi
+
+260
+00:26:15,280 --> 00:26:20,600
+-which is not my IoT wifi. Then I felt that the battle was lost.
+
+261
+00:26:20,760 --> 00:26:25,440
+Yesterday we were here and connected on the Olympus network.
+
+262
+00:26:25,600 --> 00:26:31,440
+We had "access tokens" and everything, and could talk to your "home assistant".
+
+263
+00:26:31,600 --> 00:26:36,960
+We opened the garage door and lit a lamp somewhere in the house.
+
+264
+00:26:37,120 --> 00:26:40,160
+Was it opened last night? I didn't notice that.
+
+265
+00:26:40,320 --> 00:26:46,760
+Yesterday I felt very confident that they wouldn't come any further.
+
+266
+00:26:46,920 --> 00:26:50,920
+But I was wrong, and they got in.
+
+267
+00:26:52,960 --> 00:26:57,240
+The hackers gained a foothold in the smart home network.
+
+268
+00:26:57,400 --> 00:27:02,560
+They gained access and hacked the net that controlled all IoT devices.
+
+269
+00:27:02,720 --> 00:27:07,960
+From this position
+
+270
+00:27:11,200 --> 00:27:15,200
+Suppliers must deliver safe products
+
+271
+00:27:15,360 --> 00:27:18,240
+-and have certification or labeling.
+
+272
+00:27:18,400 --> 00:27:22,320
+Everyone in Sweden will never be IT security experts.
+
+273
+00:27:22,480 --> 00:27:28,640
+However, we understand if there is a safety label on a product.
+
+274
+00:27:28,800 --> 00:27:33,960
+We need to protect our homes, so if you have everything connected
+
+275
+00:27:34,120 --> 00:27:40,760
+-not only the router but everything else, then you should have a secure password.
+
+276
+00:27:40,920 --> 00:27:45,920
+Otherwise, the bad guys will enter your home, no matter how much you lock.
+
+277
+00:27:49,840 --> 00:27:53,480
+Check this out! Logged in as AppleStoffe.
+
+278
+00:27:53,640 --> 00:27:56,680
+You change a number in the password.
+
+279
+00:27:56,840 --> 00:28:00,280
+I really understand that it's not perfect.
+
+280
+00:28:00,440 --> 00:28:06,040
+We're going to hack Therése Lindgren and take over her online identity.
+
+281
+00:28:06,200 --> 00:28:08,400
+Subtitles: Karin Hellstadius Swedish Media Text for SVT
+
