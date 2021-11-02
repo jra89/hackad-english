@@ -13,18 +13,8 @@ https://addons.mozilla.org/en-US/firefox/addon/substital/
 
 ## 2: Open the episode you want 
 
-### Episode 1
+### Episode 1 (repeat process for other episodes)
 https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-dolja?info=visa
-
-### Episode 2
-
-### Episode 3
-
-### Episode 4
-
-### Episode 5
-
-### Episode 6
 
 
 ## 3: Press the plugin icon and select "SVT Play".
@@ -37,11 +27,9 @@ https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-d
 
 Enjoy!
 
-
-
 ## Other
 
-* Done with all episodes? Might as well remove the plugin again if you're not going to keep using it.
+* Done with all episodes? Might as well remove the plugin again if you're not going to keep using it -> chrome://extensions/
 
 * Having a weird problem where the Swedish text sometimes appears instead of the English ones? Check so that the original Swedish subtitles are not enabled in the SVT Play video player (controls down to the right).
 
