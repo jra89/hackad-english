@@ -27,6 +27,8 @@ https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-d
 
 Enjoy!
 
+Like what I do? [Buy me a coffee!](https://www.paypal.com/donate?hosted_button_id=K5AC67KMER7AC)
+
 ## Other
 
 * Done with all episodes? Might as well remove the plugin.
