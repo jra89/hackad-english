@@ -1,5 +1,5 @@
 # hackad-english
-"Hackad" is a TV series of six episodes from the Swedish public service television SVT. The title translates to "Hacked" and shows four hackers hacking different targets in the different episodes. Targets include private people, companies, celebrities and a smart home. This is a short guide on how to use the subtitles on SVT Play.
+"Hackad" is a TV series of six episodes from the Swedish public service television SVT. The title translates to "Hacked" and shows four hackers hacking different targets in the different episodes. Targets include private individuals, companies, celebrities and a smart home. This is a short guide on how to use the subtitles on SVT Play.
 
 ## 1: Install this plugin
 
