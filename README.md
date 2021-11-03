@@ -28,6 +28,7 @@ Enjoy!
 Like what I do? [Buy me a coffee!](https://www.paypal.com/donate?hosted_button_id=K5AC67KMER7AC)
 
 ## Other
+* Thanks [Swedish Media Text](https://medietext.se) and [SVT](https://www.svt.se) for the translations.
 
 * Done with all episodes? Might as well remove the plugin.
 
