@@ -36,3 +36,5 @@ Like what I do? [Buy me a coffee!](https://www.paypal.com/donate?hosted_button_i
 * Having a weird problem where the Swedish text sometimes appears instead of the English ones? Check so that the original Swedish subtitles are not enabled in the SVT Play video player (controls down to the right).
 
 * Don't want to install the plugin? Find the subtitle files below.
+
+https://www.opensubtitles.org/en/ssearch/sublanguageid-all/idmovie-1087281
