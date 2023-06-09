@@ -26,6 +26,7 @@ https://www.svtplay.se/video/32893243/hackad/hackad-sasong-1-jag-har-inget-att-d
 Enjoy!
 
 ## Other
+* Thanks [Swedish Media Text](https://medietext.se) and [SVT](https://www.svt.se) for the translations.
 
 * Done with all episodes? Might as well remove the plugin.
 
